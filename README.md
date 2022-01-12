@@ -256,19 +256,19 @@ python crawling_test.py
 ## 페이징 유형 코드
 
 
-| 번호 | 유형명 | 유형 설명 | 개수 |
-| ------ | ------ | ------ | ------ |
-|1| next_disappear | next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 사라짐 |11|
-|2| in_next_disappear | next, last, prev.. 가 .paging에 모두 포함된 경우, next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 사라짐 |6|
+| 번호 | 유형명 | 유형 설명 |
+| ------ | ------ | ------ |
+|1| next_disappear | next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 사라짐 |
+|2| in_next_disappear | next, last, prev.. 가 .paging에 모두 포함된 경우, next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 사라짐 |
 |3| no_next | next(>) 버튼 없음 |3|
-|4| next_possible | next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 클릭 가능 |6|
-|5| in_next_possible | next, last, prev.. 가 .paging에 모두 포함된 경우, next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 클릭 가능 |2|
-|6| next_tab | next(>) 클릭 시 한 탭 씩 증가 |46|
-|7| in_next_tab | next, last, prev.. 가 .paging에 모두 포함된 경우, next(>) 클릭 시 한 탭 씩 증가 |71|
-|8| next_impossible | next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 클릭 불가 |1|
-|9| in_next_impossible | next, last, prev.. 가 .paging에 모두 포함된 경우, next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 클릭 가능 |2|
-|10| 개별 유형 |  |29|
-|-| 총 개수 |  |173|
+|4| next_possible | next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 클릭 가능 |
+|5| in_next_possible | next, last, prev.. 가 .paging에 모두 포함된 경우, next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 클릭 가능 |
+|6| next_tab | next(>) 클릭 시 한 탭 씩 증가 |
+|7| in_next_tab | next, last, prev.. 가 .paging에 모두 포함된 경우, next(>) 클릭 시 한 탭 씩 증가 |
+|8| next_impossible | next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 클릭 불가 |
+|9| in_next_impossible | next, last, prev.. 가 .paging에 모두 포함된 경우, next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 클릭 가능 |
+|10| 개별 유형 |  |
+|-| 총 개수 |  |
 
 
 
