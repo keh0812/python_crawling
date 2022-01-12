@@ -1,6 +1,6 @@
 # python_crawling
 
-Python Selenium 사용한 웹 크롤러 코드
+Python Selenium 웹 크롤러(+ 페이징) 코드
 
 
 ## 개발환경
