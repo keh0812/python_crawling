@@ -268,7 +268,7 @@ python crawling_test.py
 |8| next_impossible | next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 클릭 불가 |
 |9| in_next_impossible | next, last, prev.. 가 .paging에 모두 포함된 경우, next(>) 클릭 시 1페이지 씩 증가 , 마지막에 next 클릭 가능 |
 |10| 개별 유형 |  |
-|-| 총 개수 |  |
+
 
 
 
