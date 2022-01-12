@@ -1,0 +1,29 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2307",
+        "s_cd_name": "동아시아연구원(EAI)",
+        "menu_cd": "report",
+        "menu_name": "출판 - 논평·이슈브리핑",
+        "url": "https://www.eai.or.kr/new/ko/pub/list.asp?board=kor_issuebriefing&keyword=%EB%B6%81%ED%95%9C&keyword_option=board_title&page=1&RD=6LZV5XDTHV&",
+        "detail_tag": ".subject a",
+        "identifier": "intSeq",
+        "event_date": "#sub .desc li:nth-child(1)"
+    },
+    "meta_data": {
+        "title_tag": ".title > h1",
+        "author_tag": ".banner_mid > div > div > p:nth-child(1) > strong > span",
+        "download_tag": ".download",
+        "write_date_tag": ".desc li:nth-child(1)",
+        "contents_tag": ".list div",
+        "img_tag": ""
+    },
+    "event_data": {},
+    "paging_data": {
+        "paging_tag": ".__paging .num",
+        "next_tag": "a.arr.next"
+    }
+}

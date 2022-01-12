@@ -1,0 +1,40 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2219",
+        "s_cd_name": "청와대",
+        "menu_cd": "news",
+        "menu_name": "청와대 뉴스룸",
+        "url": "https://www1.president.go.kr/search",
+        "detail_tag": "#contents h2",
+        "identifier": "",
+        "event_date": "small"
+    },
+    "meta_data": {
+        "title_tag": ".fadeInDown",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": ".cs_date",
+        "contents_tag": ".text_wrap",
+        "img_tag": ".visible img"
+    },
+    "event_data": {
+        "headless": ".navigator_menu",
+        "identifier": "slash_after1",
+        "menu": [
+            "//*[@id='contents']/div[2]/div/ul/li[3]/a"
+        ],
+        "search": {
+            "search_input": "#query",
+            "search_keyword": "북한",
+            "search_btn": "li.search_PGbox_btn > input[type=image]"
+        }
+    },
+    "paging_data": {
+        "paging_tag": "div.search_PG_contens > div > div.paging > div > div:nth-child(2) a",
+        "next_tag": ".next a"
+    }
+}

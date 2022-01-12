@@ -1,0 +1,27 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "301",
+        "m_cd_name": "해외 정부기관",
+        "s_cd": "3102",
+        "s_cd_name": "미국 백악관",
+        "menu_cd": "search",
+        "menu_name": "통합검색(north korea)",
+        "url": "https://www.whitehouse.gov/?s=north+korea",
+        "detail_tag": ".entry-title a",
+        "identifier": "",
+        "event_date": ".updated"
+    },
+    "meta_data": {
+        "title_tag": ".news",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "div.topper__entry-meta time",
+        "contents_tag": ".body-content .row",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "slash_after2"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "302",
+        "m_cd_name": "국제기구",
+        "s_cd": "3201",
+        "s_cd_name": "wfp",
+        "menu_cd": "news",
+        "menu_name": "news releases",
+        "url": "https://www.wfp.org/news?f%5B0%5D=country%3A1968",
+        "detail_tag": ".fs4",
+        "identifier": "",
+        "event_date": "time"
+    },
+    "meta_data": {
+        "title_tag": ".fs-headline-lg",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": ".field--field-publication-date time",
+        "contents_tag": ".wfp-u-md-17-24 p , .summary",
+        "img_tag": "#main-content img"
+    },
+    "event_data": {
+        "identifier": "slash_after1"
+    },
+    "paging_data": {
+        "paging_tag": "",
+        "next_tag": ".pager__item--next .pagination--btn",
+        "paging_bar": ".wfp-pagination"
+    }
+}

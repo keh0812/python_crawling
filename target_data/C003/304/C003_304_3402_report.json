@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "304",
+        "m_cd_name": "연구기관",
+        "s_cd": "3402",
+        "s_cd_name": "CATO Institute",
+        "menu_cd": "report",
+        "menu_name": "통합검색(North Korea) - Blog",
+        "url": "https://www.cato.org/search/category/blog?query=North+Korea",
+        "detail_tag": "article > h5 > a",
+        "identifier": "",
+        "event_date": ".meta--default"
+    },
+    "meta_data": {
+        "title_tag": ".h2 span",
+        "author_tag": ".fw-medium a",
+        "download_tag": "",
+        "write_date_tag": ".text-uppercase span",
+        "contents_tag": ".fs-lg p",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "slash_after1"
+    },
+    "paging_data": {
+        "paging_tag": ".page-item a",
+        "next_tag": "",
+        "paging_bar": ".pagination"
+    }
+}

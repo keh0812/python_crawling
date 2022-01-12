@@ -1,0 +1,29 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2221",
+        "s_cd_name": "환경부",
+        "menu_cd": "pressinfo",
+        "menu_name": "알림/홍보 - 뉴스·공지 - 보도·설명",
+        "url": "http://me.go.kr/home/web/board/list.do?menuId=286&boardMasterId=1&boardCategoryId=&maxIndexPages=10&condition.hideCate=&condition.createId=&decorator=&condition.proxyParam1=&condition.proxyParam2=&condition.proxyParam3=&proxyListPath=&proxyReadPath=&condition.createDeptName=&searchKey=title&searchValue=%EB%B6%81%ED%95%9C&condition.fromDate=&condition.toDate=&x=29&y=21&order=",
+        "detail_tag": ".al a",
+        "identifier": "boardId",
+        "event_date": ".table_case01 td:nth-child(5)"
+    },
+    "meta_data": {
+        "title_tag": "#boardTableWrapper > header",
+        "author_tag": ".view_info01 li:nth-child(2) dd",
+        "download_tag": ".view_file a",
+        "write_date_tag": "#boardViewListForRead_0 li~ li dd",
+        "contents_tag": ".view_con",
+        "img_tag": ".view_con img"
+    },
+    "event_data": {},
+    "paging_data": {
+        "paging_tag": ".page_num a",
+        "next_tag": ".page_num+ span img"
+    }
+}

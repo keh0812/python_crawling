@@ -1,0 +1,27 @@
+{
+    "common_data": {
+        "l_cd": "C001",
+        "l_cd_name": "북한",
+        "m_cd": "101",
+        "m_cd_name": "선전매체",
+        "s_cd": "1106",
+        "s_cd_name": "우리민족끼리",
+        "menu_cd": "news",
+        "menu_name": "기사 - 보도",
+        "url": "http://www.uriminzokkiri.com/index.php?ptype=cgisas&stype=8&ctype=14&page=2",
+        "detail_tag": ".u_each_title a",
+        "identifier": "no",
+        "event_date": ".u_reg_date"
+    },
+    "meta_data": {
+        "title_tag": ".title",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "p:nth-child(1)",
+        "contents_tag": ".title~ p+ p",
+        "img_tag": ".u_gisa_view img"
+    },
+    "event_data": {
+        "headless": "#top_Navbar"
+    }
+}

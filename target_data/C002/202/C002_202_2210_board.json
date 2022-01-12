@@ -1,0 +1,42 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2210",
+        "s_cd_name": "법무부",
+        "menu_cd": "board",
+        "menu_name": "통합검색(북한)-게시판",
+        "url": "https://search-home.moj.go.kr/search.jsp",
+        "detail_tag": ".m_notice > dl > dt > a",
+        "identifier": "enc",
+        "event_date": ".date"
+    },
+    "meta_data": {
+        "title_tag": ".dataInfo > div.titleWrap > h2",
+        "author_tag": "dl:nth-child(5) dd",
+        "download_tag": ".artclItem.viewForm > dl > dd > ul > li > a",
+        "write_date_tag": ".dataInfo > div.infor > dl:nth-child(1) > dd",
+        "contents_tag": ".artclView",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "reverse_40",
+        "headless": "#header",
+        "menu": [
+            "//*[@id='lmb']/ul/li[5]/a",
+            "//*[@id='radioinput1']"
+        ],
+        "search": {
+            "search_input": "#search",
+            "search_keyword": "북한",
+            "search_btn": "input.submit"
+        }
+    },
+    "paging_data": {
+        "paging_tag": ".number a",
+        "active_page_tag": "",
+        "next_tag": ".dir_next"
+    }
+}

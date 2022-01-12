@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "201",
+        "m_cd_name": "통일부",
+        "s_cd": "2101",
+        "s_cd_name": "남북회담본부 홈페이지",
+        "menu_cd": "agreement",
+        "menu_name": "남북회담정보 - 남북합의서",
+        "url": "https://dialogue.unikorea.go.kr/ukd/c/ca/usrtalkmanage/List.do?tab=5&agreement_type=01",
+        "detail_tag": ".subject a",
+        "identifier": "",
+        "event_date": "td:nth-child(6)"
+    },
+    "meta_data": {
+        "title_tag": "tr:nth-child(7) td",
+        "author_tag": "",
+        "download_tag": ".file-name a",
+        "date_tag": "",
+        "contents_tag": "tr:nth-child(10) span",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "javascript",
+        "javascript": "href"
+    },
+    "paging_data": {
+        "paging_tag": ".pagination li",
+        "next_tag": ".next a"
+    }
+}

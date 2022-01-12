@@ -1,0 +1,28 @@
+{
+    "common_data": {
+        "l_cd": "C001",
+        "l_cd_name": "북한",
+        "m_cd": "102",
+        "m_cd_name": "언론사 및 언론매체",
+        "s_cd": "1201",
+        "s_cd_name": "민주조선",
+        "menu_cd": "news",
+        "menu_name": "분야별기사",
+        "url": "http://www.minzu.rep.kp/category/post/",
+        "detail_tag": ".post-title a",
+        "identifier": "",
+        "event_date": ".updated"
+    },
+    "meta_data": {
+        "title_tag": ".av-special-heading-tag",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "",
+        "contents_tag": ".avia_textblock",
+        "img_tag": "div > a > img"
+    },
+    "event_data": {
+        "identifier": "slash_after2",
+        "headless": "div.header_back"
+    }
+}

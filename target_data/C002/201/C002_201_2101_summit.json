@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "201",
+        "m_cd_name": "통일부",
+        "s_cd": "2101",
+        "s_cd_name": "남북회담본부 홈페이지",
+        "menu_cd": "summit",
+        "menu_name": "회담별 자료 - 회담소식",
+        "url": "https://dialogue.unikorea.go.kr/ukd/a/aa/usrtalkmanage/List.do?tab=1",
+        "detail_tag": ".subject a",
+        "identifier": "",
+        "event_date": "td:nth-child(5)"
+    },
+    "meta_data": {
+        "title_tag": "tr:nth-child(7) td",
+        "author_tag": "",
+        "download_tag": ".file-name a",
+        "date_tag": "",
+        "contents_tag": ".basic-view div span",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "javascript",
+        "javascript": "href"
+    },
+    "paging_data": {
+        "paging_tag": ".pagination li",
+        "next_tag": ".next a"
+    }
+}

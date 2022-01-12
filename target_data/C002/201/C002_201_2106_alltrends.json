@@ -1,0 +1,46 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "201",
+        "m_cd_name": "통일부",
+        "s_cd": "2106",
+        "s_cd_name": "북한정보포털",
+        "menu_cd": "alltrends",
+        "menu_name": "북한동향 - 전체동향",
+        "url": "https://nkinfo.unikorea.go.kr",
+        "detail_tag": ".board-list > table > tbody > tr > td.board-align > a",
+        "identifier": "",
+        "event_date": ".board-align+ td"
+    },
+    "meta_data": {
+        "title_tag": "h4",
+        "author_tag": ".infor-element:nth-child(2) .cont",
+        "download_tag": "",
+        "write_date_tag": ".infor-element:nth-child(1) .cont",
+        "contents_tag": ".board-view-body > p",
+        "img_tag": ""
+    },
+    "event_data": {
+        "advert": {
+            "advert_close": ".layer-close"
+        },
+        "search": {
+            "search_input": "#searchFromDt",
+            "search_keyword": "20110101",
+            "search_input2": "#searchToDt",
+            "search_keyword2": "20130429",
+            "search_btn": "#searchBtn"
+        },
+        "menu": [
+            "//*[@id='gnb']/ul/li[2]/a",
+            "//*[@id='gnb']/ul/li[2]/div/div/div[2]/dl[1]/dd/ul/li[1]/a"
+        ],
+        "identifier": "javascript",
+        "javascript": "diary-id"
+    },
+    "paging_data": {
+        "paging_tag": ".paging > ul > li > a",
+        "next_tag": ".paging .next"
+    }
+}

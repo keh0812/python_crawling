@@ -1,0 +1,34 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "301",
+        "m_cd_name": "해외 정부기관",
+        "s_cd": "3108",
+        "s_cd_name": "미국 국무부",
+        "menu_cd": "country",
+        "menu_name": "Countries & Areas - North Korea",
+        "url": "https://www.state.gov/countries-areas-archive/north-korea/",
+        "detail_tag": "#col_json_result > li > a",
+        "identifier": "",
+        "event_date": ""
+    },
+    "meta_data": {
+        "title_tag": "section > div:nth-child(2) > div > h1",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": ".article-meta__publish-date",
+        "contents_tag": ".entry-content",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "state",
+        "advert": {
+            "advert_close": ".fsrInvite .fsrDeclineButton"
+        }
+    },
+    "paging_data": {
+        "paging_tag": "",
+        "next_tag": ".next"
+    }
+}

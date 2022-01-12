@@ -1,0 +1,29 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "201",
+        "m_cd_name": "통일부",
+        "s_cd": "2105",
+        "s_cd_name": "북한자료센터",
+        "menu_cd": "dictionary",
+        "menu_name": "자료실-통일부발간물-통일백서",
+        "url": "https://unibook.unikorea.go.kr/board/list?boardId=7",
+        "detail_tag": ".download-paper-list > div > div > a",
+        "identifier": "id",
+        "event_date": "h6"  
+    },
+    "meta_data": {
+        "title_tag": "tr:nth-child(1) > td",
+        "author_tag": "tr:nth-child(4) > td",
+        "download_tag": "tr:nth-child(3) > td > a",
+        "write_date_tag": "",
+        "contents_tag": "pre",
+        "img_tag": ""
+    },
+    "event_data": {},
+    "paging_data": {
+        "paging_tag": ".pc-page a",
+        "next_tag": ".next"
+    }
+}

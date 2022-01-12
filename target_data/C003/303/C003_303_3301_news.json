@@ -1,0 +1,33 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "303",
+        "m_cd_name": "언론사 및 언론매체",
+        "s_cd": "3301",
+        "s_cd_name": "자유아시아방송(RFA)",
+        "menu_cd": "news",
+        "menu_name": "Hone - News - North Korea",
+        "url": "https://www.rfa.org/english/news/korea/story_archive",
+        "detail_tag": ".no_media",
+        "identifier": "",
+        "event_date": ".story_date"
+    },
+    "meta_data": {
+        "title_tag": "h1",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "",
+        "contents_tag": "#storytext p",
+        "img_tag": "#headerimg > img"
+    },
+    "event_data": {
+        "identifier": "remove_html",
+        "headless": "#portal-top"
+    },
+    "paging_data": {
+        "paging_tag": "",
+        "next_tag": ".next > a",
+        "paging_bar": ""
+    }
+}

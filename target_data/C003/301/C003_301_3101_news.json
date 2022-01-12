@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "301",
+        "m_cd_name": "해외 정부기관",
+        "s_cd": "3101",
+        "s_cd_name": "미국 국방부",
+        "menu_cd": "news",
+        "menu_name": "news",
+        "url": "https://www.defense.gov/Explore/News/Listing/?Search=north+korea",
+        "detail_tag": "a.link-overlay",
+        "identifier": "",
+        "event_date": "#alist time"
+    },
+    "meta_data": {
+        "title_tag": ".maintitle",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "div > header > span.date",
+        "contents_tag": ".body",
+        "img_tag": ".image-wrapper img.img-responsive"
+    },
+    "event_data": {
+        "identifier": "slash_after2"
+    },
+    "paging_data": {
+        "paging_tag": ".hidden-xs .apager a",
+        "active_page_tag": "div.hidden-xs > div > div.active",
+        "next_tag": ".number-pager .hidden-xs .fa-chevron-right"
+    }
+}

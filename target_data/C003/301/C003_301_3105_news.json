@@ -1,0 +1,35 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "301",
+        "m_cd_name": "해외 정부기관",
+        "s_cd": "3105",
+        "s_cd_name": "미국 해병정보국",
+        "menu_cd": "news",
+        "menu_name": "통합검색(north korea) - News",
+        "url": "https://www.marines.mil/Home/Search/?tag=North%20Korea",
+        "detail_tag": "#grid > div > a:nth-child(1)",
+        "identifier": "",
+        "event_date": "#grid > div > p.p-tme"
+    },
+    "meta_data": {
+        "title_tag": ".title",
+        "author_tag": ".author",
+        "download_tag": "",
+        "write_date_tag": ".publishdate",
+        "contents_tag": ".body-text",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "slash_after2",
+        "menu": [
+            "//*[@id='news']"
+        ]
+    },
+    "paging_data": {
+        "paging_tag": ".pp-pagenumber a",
+        "active_page_tag": ".pp-pagenumber .currentPage",
+        "next_tag": ""
+    }
+}

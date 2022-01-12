@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "301",
+        "m_cd_name": "해외 정부기관",
+        "s_cd": "3103",
+        "s_cd_name": "미국 법무부",
+        "menu_cd": "news",
+        "menu_name": "Home - Office of Public Affairs - News",
+        "url": "https://www.justice.gov/news?keys=North+Korea&items_per_page=25",
+        "detail_tag": "div.views-field > span > a",
+        "identifier": "",
+        "event_date": ".date-display-single"
+    },
+    "meta_data": {
+        "title_tag": "#node-title",
+        "author_tag": ".cat-links a",
+        "download_tag": "",
+        "write_date_tag": ".date-display-single",
+        "contents_tag": ".field--type-text-long .even",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "slash_after1"
+    },
+    "paging_data": {
+        "paging_tag": "",
+        "next_tag": ".pager__item--next a",
+        "paging_bar": ""
+    }
+}

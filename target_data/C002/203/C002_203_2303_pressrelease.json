@@ -1,0 +1,36 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2303",
+        "s_cd_name": "국가안보전략연구원",
+        "menu_cd": "pressrelease",
+        "menu_name": "연구원 소식 - 보도자료",
+        "url": "http://www.inss.re.kr/news/bbs/report_list.do",
+        "detail_tag": ".file2 a",
+        "identifier": "nttId",
+        "event_date": ".file2 ul li"
+    },
+    "meta_data": {
+        "title_tag": ".info p",
+        "author_tag": "",
+        "download_tag": ".fileList a",
+        "write_date_tag": ".info li",
+        "contents_tag": "#view_content span",
+        "img_tag": "img"
+    },
+    "event_data": {
+        "headless": "#header",
+        "search": {
+            "search_input": "#listMap div input",
+            "search_keyword": "북한",
+            "search_btn": ".btnSearch"
+        }
+    },
+    "paging_data": {
+        "paging_tag": ".page li a",
+        "next_tag": "ul+ a img"
+    }
+}

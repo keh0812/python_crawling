@@ -1,0 +1,30 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2311",
+        "s_cd_name": "한국농촌경제연구원",
+        "menu_cd": "trendsalanalysis",
+        "menu_name": "글로벌정보 - 북한농업정보 - 주요동향분석(북한매체)",
+        "url": "https://www.krei.re.kr/krei/selectBbsNttList.do?bbsNo=83&key=319",
+        "detail_tag": ".border_tit a",
+        "identifier": "nttNo",
+        "event_date": "td:nth-child(3)"
+    },
+    "meta_data": {
+        "title_tag": "tr:nth-child(1) > th > span",
+        "author_tag": "",
+        "download_tag": "tr:nth-child(3) > td > ul > p > a",
+        "write_date_tag": "",
+        "contents_tag": ".view_txt",
+        "img_tag": ""
+    },
+    "event_data": {},
+    "paging_data": {
+        "paging_tag": ".paginate a",
+        "next_tag": "#scontents_container div div.paginate a.next.webBtn.webBtn",
+        "active_page_tag": "strong"
+    }
+}

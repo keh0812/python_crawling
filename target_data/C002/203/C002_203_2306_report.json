@@ -1,0 +1,38 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2306",
+        "s_cd_name": "대외경제정책연구원(KIEP)",
+        "menu_cd": "report",
+        "menu_name": "보고서 – 전체보고서",
+        "url": "https://www.kiep.go.kr/gallery.es?mid=a10101010000&bid=0001",
+        "detail_tag": ".group1 > div > a",
+        "identifier": "",
+        "event_date": ".info span+ span"
+    },
+    "meta_data": {
+        "title_tag": "#contents_body .title",
+        "author_tag": ".info > span:nth-child(1) > a",
+        "download_tag": ".btns.txt_left > a.btn1.type2",
+        "write_date_tag": "#contents_body span:nth-child(4)",
+        "contents_tag": ".item.item1 > div",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": "#visual",
+        "identifier": "javascript",
+        "javascript": "onclick",
+        "search": {
+            "search_input": ".form_textbox",
+            "search_keyword": "북한",
+            "search_btn": "#srhForm .btn"
+        }
+    },
+    "paging_data": {
+        "paging_tag": "#contents_body .group a",
+        "next_tag": ".board_pager .next"
+    }
+}

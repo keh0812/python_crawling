@@ -1,0 +1,35 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2211",
+        "s_cd_name": "산업통상자원부",
+        "menu_cd": "news",
+        "menu_name": "알림·뉴스 - 보도/해명(북한)",
+        "url": "http://www.motie.go.kr/motie/ne/presse/press2/bbs/bbsList.do?bbs_cd_n=81",
+        "detail_tag": "tr > td.al > div > a",
+        "identifier": "bbs_seq_n",
+        "event_date": "td:nth-child(5)"
+    },
+    "meta_data": {
+        "title_tag": ".firstT > td",
+        "author_tag": ".common_list > table > tbody > tr:nth-child(2) > td:nth-child(2)",
+        "download_tag": ".list-item > a",
+        "write_date_tag": "tbody > tr:nth-child(4) > td:nth-child(2)",
+        "contents_tag": ".common_list > table > tbody > tr:nth-child(5) > td",
+        "img_tag": ""
+    },
+    "event_data": {
+        "search": {
+            "search_input": "#search_val_v",
+            "search_keyword": "북한",
+            "search_btn": "input[type=submit]:nth-child(3)"
+        }
+    },
+    "paging_data": {
+        "paging_tag": ".num a",
+        "next_tag": ".next a"
+    }
+}

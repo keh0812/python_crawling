@@ -1,0 +1,29 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2309",
+        "s_cd_name": "한국개발연구원(KDI)",
+        "menu_cd": "publication",
+        "menu_name": "통합검색(KDI 북한) - 발간물",
+        "url": "https://www.kdi.re.kr/search/search.jsp?pageSize=10&category=PUBLICATION&kwd=KDI%20%EB%B6%81%ED%95%9C",
+        "detail_tag": "a.rpt_link",
+        "identifier": "pub_no",
+        "event_date": "em+ .nlt"
+    },
+    "meta_data": {
+        "title_tag": "dt",
+        "author_tag": "",
+        "download_tag": "div.view_author > div > a",
+        "write_date_tag": "dd",
+        "contents_tag": ".css_none_top",
+        "img_tag": "div.view_author > span > img"
+    },
+    "event_data": {},
+    "paging_data": {
+        "paging_tag": "#pgb a",
+        "next_tag": "#pgb > div.page_w > button.next_btn"
+    }
+}

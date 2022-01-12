@@ -1,0 +1,31 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2202",
+        "s_cd_name": "국방부",
+        "menu_cd": "report",
+        "menu_name": "국방소식 - 보도자료",
+        "url": "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=&command=&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=%EB%B6%81%ED%95%9C&findOrganSeq=",
+        "detail_tag": ".title a",
+        "identifier": "newsSeq",
+        "event_date": ".post_info .first dd"
+    },
+    "meta_data": {
+        "title_tag": ".board_view div.title",
+        "author_tag": "dl.first.floatL > dd",
+        "download_tag": "div.wrap_file > ul > li.first > a",
+        "write_date_tag": "dl:nth-child(2) > dd",
+        "contents_tag": ".post_content",
+        "img_tag": ".txc-image"
+    },
+    "event_data": {
+        "headless": "#nav_header_fix"
+    },
+    "paging_data": {
+        "paging_tag": ".pager a",
+        "next_tag": ".btnNext a"
+    }
+}

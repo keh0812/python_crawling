@@ -1,0 +1,39 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "201",
+        "m_cd_name": "통일부",
+        "s_cd": "2106",
+        "s_cd_name": "북한정보포털",
+        "menu_cd": "report",
+        "menu_name": "전문자료 - 기타 자료",
+        "url": "https://nkinfo.unikorea.go.kr",
+        "detail_tag": ".board-list > ul > li > a",
+        "identifier": "",
+        "event_date": ".infor span:nth-child(1)"
+    },
+    "meta_data": {
+        "title_tag": "div:nth-child(1) > dl.left-area > dd",
+        "author_tag": ".infor-element:nth-child(1) .cont",
+        "download_tag": "div:nth-child(2) > dl > dd > a",
+        "write_date_tag": "div:nth-child(1) > dl.right-area > dd",
+        "contents_tag": ".notice-text",
+        "img_tag": ".board-view-body > ul > li > img"
+    },
+    "event_data": {
+        "advert": {
+            "advert_close": ".layer-close"
+        },
+        "menu": [
+            "//*[@id='gnb']/ul/li[4]/a",
+            "//*[@id='gnb']/ul/li[4]/div/div/div[2]/dl[1]/dd/ul/li[3]/a"
+        ],
+        "identifier": "javascript",
+        "javascript": "data-id"
+    },
+    "paging_data": {
+        "paging_tag": ".paging > ul > li > a",
+        "next_tag": ".paging .next"
+    }
+}

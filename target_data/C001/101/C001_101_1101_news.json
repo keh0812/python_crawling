@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C001",
+        "l_cd_name": "북한",
+        "m_cd": "101",
+        "m_cd_name": "선전매체",
+        "s_cd": "1101",
+        "s_cd_name": "내나라",
+        "menu_cd": "news",
+        "menu_name": "전체기사",
+        "url": "http://www.naenara.com.kp/main/index/ko/news",
+        "detail_tag": ".tab-content .viewArticle",
+        "identifier": "",
+        "event_date": ".tab-content nobr label:nth-child(2)"
+    },
+    "meta_data": {
+        "title_tag": ".modal-body p:nth-child(1)",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "#modal_view > div > div > div.modal-body > div",
+        "contents_tag": ".modal-body td",
+        "img_tag": ".modal-body .img-thumbnail"
+    },
+    "event_data": {
+        "identifier": "slash_after1",
+        "modal": {
+            "close_tag": ".modal-footer button",
+            "identifier": "path"
+        },
+        "headless": ".fixedMenu"
+    }
+}

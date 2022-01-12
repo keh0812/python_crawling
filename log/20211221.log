@@ -1,0 +1,1346 @@
+2021-12-21 09:58:15,689 | INFO | crawling | crawling_main() | crawling | C002/202/2202/mnd | 크롤링 시작
+2021-12-21 09:58:15,724 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 09:58:15,831 | INFO | Authentication (password) successful!
+2021-12-21 09:58:15,889 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 09:58:15,918 | INFO | crawling | crawling_main() | crawling | C002/202/2202/mnd | 1 페이지
+2021-12-21 09:58:15,940 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 09:58:16,057 | INFO | Authentication (password) successful!
+2021-12-21 09:58:16,116 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 09:58:16,131 | INFO | crawling | crawling_main() | crawling | C002/202/2202/mnd | 크롤링 대상 : 5 건
+2021-12-21 09:58:16,164 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 09:58:16,279 | INFO | Authentication (password) successful!
+2021-12-21 09:58:16,342 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:04:10,566 | INFO | crawling | crawling_main() | crawling | C002/202/2202/mnd | 크롤링 시작
+2021-12-21 10:04:10,589 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:04:10,709 | INFO | Authentication (password) successful!
+2021-12-21 10:04:10,782 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:04:10,805 | INFO | crawling | crawling_main() | crawling | C002/202/2202/mnd | 1 페이지
+2021-12-21 10:04:10,827 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:04:10,935 | INFO | Authentication (password) successful!
+2021-12-21 10:04:10,991 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:04:11,002 | INFO | crawling | crawling_main() | crawling | C002/202/2202/mnd | 크롤링 대상 : 5 건
+2021-12-21 10:04:11,030 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:04:11,164 | INFO | Authentication (password) successful!
+2021-12-21 10:04:11,231 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:13:41,027 | INFO | crawling | crawling_main() | crawling | C002/202/2202/mnd | 크롤링 시작
+2021-12-21 10:13:41,051 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:13:41,171 | INFO | Authentication (password) successful!
+2021-12-21 10:13:41,227 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:13:41,254 | INFO | crawling | crawling_main() | crawling | C002/202/2202/mnd | 1 페이지
+2021-12-21 10:13:41,275 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:13:41,395 | INFO | Authentication (password) successful!
+2021-12-21 10:13:41,453 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:13:41,463 | INFO | crawling | crawling_main() | crawling | C002/202/2202/mnd | 크롤링 대상 : 5 건
+2021-12-21 10:13:41,485 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:13:41,603 | INFO | Authentication (password) successful!
+2021-12-21 10:13:41,664 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:48:02,905 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 시작
+2021-12-21 10:48:02,927 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:48:03,049 | INFO | Authentication (password) successful!
+2021-12-21 10:48:03,120 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:48:39,299 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 1 페이지
+2021-12-21 10:48:39,323 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:48:39,445 | INFO | Authentication (password) successful!
+2021-12-21 10:48:39,500 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:48:44,525 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 대상 : 10 건
+2021-12-21 10:48:44,545 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:48:44,662 | INFO | Authentication (password) successful!
+2021-12-21 10:48:44,721 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:48:57,446 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 성공 : 0 건
+2021-12-21 10:48:57,468 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:48:57,581 | INFO | Authentication (password) successful!
+2021-12-21 10:48:57,641 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:52:04,316 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 시작
+2021-12-21 10:52:04,336 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:52:04,460 | INFO | Authentication (password) successful!
+2021-12-21 10:52:04,515 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:52:50,750 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 1 페이지
+2021-12-21 10:52:50,773 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:52:50,887 | INFO | Authentication (password) successful!
+2021-12-21 10:52:50,956 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:52:55,985 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 대상 : 10 건
+2021-12-21 10:52:56,000 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:52:56,120 | INFO | Authentication (password) successful!
+2021-12-21 10:52:56,175 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 10:53:09,079 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 성공 : 0 건
+2021-12-21 10:53:09,095 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 10:53:09,207 | INFO | Authentication (password) successful!
+2021-12-21 10:53:09,272 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:00:29,681 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 시작
+2021-12-21 11:00:29,702 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:00:29,815 | INFO | Authentication (password) successful!
+2021-12-21 11:00:29,884 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:01:06,061 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 1 페이지
+2021-12-21 11:01:06,084 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:01:06,196 | INFO | Authentication (password) successful!
+2021-12-21 11:01:06,265 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:01:11,281 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 대상 : 10 건
+2021-12-21 11:01:11,302 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:01:11,417 | INFO | Authentication (password) successful!
+2021-12-21 11:01:11,477 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:01:24,493 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 성공 : 0 건
+2021-12-21 11:01:24,516 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:01:24,656 | INFO | Authentication (password) successful!
+2021-12-21 11:01:24,714 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:04:32,509 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 시작
+2021-12-21 11:04:32,531 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:04:32,635 | INFO | Authentication (password) successful!
+2021-12-21 11:04:32,696 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:05:08,865 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 1 페이지
+2021-12-21 11:05:08,888 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:05:09,003 | INFO | Authentication (password) successful!
+2021-12-21 11:05:09,069 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:05:14,086 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 대상 : 10 건
+2021-12-21 11:05:14,105 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:05:14,223 | INFO | Authentication (password) successful!
+2021-12-21 11:05:14,282 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:06:48,987 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:06:49,105 | INFO | Authentication (password) successful!
+2021-12-21 11:06:49,172 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:08:30,207 | INFO | crawling | crawling_main() | crawling | C002/203/2309/publication | 크롤링 시작
+2021-12-21 11:08:30,227 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:08:30,340 | INFO | Authentication (password) successful!
+2021-12-21 11:08:30,409 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:08:40,796 | INFO | crawling | crawling_main() | crawling | C002/203/2309/report | 크롤링 시작
+2021-12-21 11:08:40,818 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:08:40,931 | INFO | Authentication (password) successful!
+2021-12-21 11:08:40,996 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:09:17,154 | INFO | crawling | crawling_main() | crawling | C002/203/2309/report | 1 페이지
+2021-12-21 11:09:17,175 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:09:17,296 | INFO | Authentication (password) successful!
+2021-12-21 11:09:17,360 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:09:22,392 | INFO | crawling | crawling_main() | crawling | C002/203/2309/report | 크롤링 대상 : 10 건
+2021-12-21 11:09:22,415 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:09:22,534 | INFO | Authentication (password) successful!
+2021-12-21 11:09:22,605 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:15:35,288 | INFO | crawling | crawling_main() | crawling | C002/203/2310/report | 크롤링 시작
+2021-12-21 11:15:35,311 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:15:35,437 | INFO | Authentication (password) successful!
+2021-12-21 11:15:35,505 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:15:41,692 | INFO | crawling | crawling_main() | crawling | C002/203/2310/report | 1 페이지
+2021-12-21 11:15:41,714 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:15:41,835 | INFO | Authentication (password) successful!
+2021-12-21 11:15:41,894 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:15:46,943 | INFO | crawling | crawling_main() | crawling | C002/203/2310/report | 크롤링 대상 : 10 건
+2021-12-21 11:15:46,957 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:15:47,071 | INFO | Authentication (password) successful!
+2021-12-21 11:15:47,137 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:15:47,169 | INFO | crawling | crawling_main() | crawling | C002/203/2310/report | 크롤링 성공 : 0 건
+2021-12-21 11:15:47,190 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:15:47,307 | INFO | Authentication (password) successful!
+2021-12-21 11:15:47,376 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:15:55,388 | INFO | crawling | crawling_main() | crawling | C002/203/2310/report | 2 페이지
+2021-12-21 11:15:55,411 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:15:55,531 | INFO | Authentication (password) successful!
+2021-12-21 11:15:55,599 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:16:00,630 | INFO | crawling | crawling_main() | crawling | C002/203/2310/report | 크롤링 대상 : 10 건
+2021-12-21 11:16:00,654 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:16:00,769 | INFO | Authentication (password) successful!
+2021-12-21 11:16:00,829 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 11:16:00,853 | INFO | crawling | crawling_main() | crawling | C002/203/2310/report | 크롤링 성공 : 0 건
+2021-12-21 11:16:00,874 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 11:16:00,971 | INFO | Authentication (password) successful!
+2021-12-21 11:16:01,025 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:14:39,362 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 13:14:39,382 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:14:39,499 | INFO | Authentication (password) successful!
+2021-12-21 13:14:39,561 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:14:59,615 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 13:14:59,640 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:14:59,760 | INFO | Authentication (password) successful!
+2021-12-21 13:14:59,826 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:15:04,846 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 13:15:04,869 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:15:04,986 | INFO | Authentication (password) successful!
+2021-12-21 13:15:05,041 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:16:46,112 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:16:46,236 | INFO | Authentication (password) successful!
+2021-12-21 13:16:46,295 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:26:37,542 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 13:26:37,567 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:26:37,687 | INFO | Authentication (password) successful!
+2021-12-21 13:26:37,745 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:26:57,779 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 13:26:57,799 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:26:57,887 | INFO | Authentication (password) successful!
+2021-12-21 13:26:57,944 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:27:02,970 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 13:27:02,992 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:27:03,112 | INFO | Authentication (password) successful!
+2021-12-21 13:27:03,168 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:27:09,983 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 성공 : 0 건
+2021-12-21 13:27:10,004 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:27:10,121 | INFO | Authentication (password) successful!
+2021-12-21 13:27:10,178 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:28:45,902 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 13:28:45,939 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:28:46,059 | INFO | Authentication (password) successful!
+2021-12-21 13:28:46,129 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:29:06,158 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 13:29:06,184 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:29:06,301 | INFO | Authentication (password) successful!
+2021-12-21 13:29:06,369 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:29:11,400 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 13:29:11,423 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:29:11,543 | INFO | Authentication (password) successful!
+2021-12-21 13:29:11,615 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:56:23,177 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 13:56:23,196 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:56:23,307 | INFO | Authentication (password) successful!
+2021-12-21 13:56:23,366 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:56:43,402 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 13:56:43,423 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:56:43,531 | INFO | Authentication (password) successful!
+2021-12-21 13:56:43,591 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 13:56:48,616 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 13:56:48,638 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 13:56:48,763 | INFO | Authentication (password) successful!
+2021-12-21 13:56:48,829 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:02:12,433 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 14:02:12,456 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:02:12,573 | INFO | Authentication (password) successful!
+2021-12-21 14:02:12,633 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:02:32,657 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 14:02:32,680 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:02:32,792 | INFO | Authentication (password) successful!
+2021-12-21 14:02:32,853 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:02:37,868 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 14:02:37,890 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:02:38,002 | INFO | Authentication (password) successful!
+2021-12-21 14:02:38,061 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:03:46,670 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 14:03:46,693 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:03:46,812 | INFO | Authentication (password) successful!
+2021-12-21 14:03:46,874 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:04:06,898 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 14:04:06,920 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:04:07,033 | INFO | Authentication (password) successful!
+2021-12-21 14:04:07,094 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:04:12,114 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 14:04:12,137 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:04:12,257 | INFO | Authentication (password) successful!
+2021-12-21 14:04:12,327 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:09:40,077 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 14:09:40,099 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:09:40,209 | INFO | Authentication (password) successful!
+2021-12-21 14:09:40,267 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:10:00,298 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 14:10:00,320 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:10:00,433 | INFO | Authentication (password) successful!
+2021-12-21 14:10:00,492 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:10:05,520 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 14:10:05,535 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:10:05,632 | INFO | Authentication (password) successful!
+2021-12-21 14:10:05,687 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:18:19,871 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 14:18:19,895 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:18:20,004 | INFO | Authentication (password) successful!
+2021-12-21 14:18:20,070 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:18:40,096 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 14:18:40,127 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:18:40,248 | INFO | Authentication (password) successful!
+2021-12-21 14:18:40,308 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:18:45,347 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 14:18:45,371 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:18:45,494 | INFO | Authentication (password) successful!
+2021-12-21 14:18:45,554 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:20:22,483 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 14:20:22,501 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:20:22,614 | INFO | Authentication (password) successful!
+2021-12-21 14:20:22,669 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:20:42,697 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 14:20:42,719 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:20:42,835 | INFO | Authentication (password) successful!
+2021-12-21 14:20:42,904 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:20:47,935 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 14:20:47,957 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:20:48,075 | INFO | Authentication (password) successful!
+2021-12-21 14:20:48,144 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:21:32,154 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 14:21:32,176 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:21:32,305 | INFO | Authentication (password) successful!
+2021-12-21 14:21:32,363 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:21:52,390 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 14:21:52,414 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:21:52,531 | INFO | Authentication (password) successful!
+2021-12-21 14:21:52,597 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:21:57,628 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 14:21:57,648 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:21:57,768 | INFO | Authentication (password) successful!
+2021-12-21 14:21:57,826 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:23:18,053 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 14:23:18,075 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:23:18,262 | INFO | Authentication (password) successful!
+2021-12-21 14:23:18,360 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:23:38,394 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 14:23:38,416 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:23:38,528 | INFO | Authentication (password) successful!
+2021-12-21 14:23:38,590 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:23:43,627 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 14:23:43,643 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:23:43,749 | INFO | Authentication (password) successful!
+2021-12-21 14:23:43,809 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:31:42,067 | INFO | crawling | crawling_main() | crawling | C002/203/2311/agrictrends | 크롤링 시작
+2021-12-21 14:31:42,094 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:31:42,233 | INFO | Authentication (password) successful!
+2021-12-21 14:31:42,296 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:31:48,519 | INFO | crawling | crawling_main() | crawling | C002/203/2311/agrictrends | 1 페이지
+2021-12-21 14:31:48,542 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:31:48,662 | INFO | Authentication (password) successful!
+2021-12-21 14:31:48,722 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:31:53,738 | INFO | crawling | crawling_main() | crawling | C002/203/2311/agrictrends | 크롤링 대상 : 10 건
+2021-12-21 14:31:53,758 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:31:53,868 | INFO | Authentication (password) successful!
+2021-12-21 14:31:53,936 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:31:53,987 | INFO | crawling | crawling_main() | crawling | C002/203/2311/agrictrends | 크롤링 성공 : 0 건
+2021-12-21 14:31:54,008 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:31:54,130 | INFO | Authentication (password) successful!
+2021-12-21 14:31:54,191 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:32:03,545 | INFO | crawling | crawling_main() | crawling | C002/203/2311/agrictrends | 2 페이지
+2021-12-21 14:32:03,568 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:32:03,683 | INFO | Authentication (password) successful!
+2021-12-21 14:32:03,741 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:32:25,810 | INFO | crawling | crawling_main() | crawling | C002/203/2311/ac | 크롤링 시작
+2021-12-21 14:32:25,834 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:32:25,958 | INFO | Authentication (password) successful!
+2021-12-21 14:32:26,026 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:32:39,952 | INFO | crawling | crawling_main() | crawling | C002/203/2311/agricalanalysis | 크롤링 시작
+2021-12-21 14:32:39,976 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:32:40,095 | INFO | Authentication (password) successful!
+2021-12-21 14:32:40,152 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:32:54,382 | INFO | crawling | crawling_main() | crawling | C002/203/2311/trendsalanalysis | 크롤링 시작
+2021-12-21 14:32:54,407 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:32:54,519 | INFO | Authentication (password) successful!
+2021-12-21 14:32:54,582 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:33:00,790 | INFO | crawling | crawling_main() | crawling | C002/203/2311/trendsalanalysis | 1 페이지
+2021-12-21 14:33:00,816 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:33:00,940 | INFO | Authentication (password) successful!
+2021-12-21 14:33:01,010 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:33:06,051 | INFO | crawling | crawling_main() | crawling | C002/203/2311/trendsalanalysis | 크롤링 대상 : 10 건
+2021-12-21 14:33:06,078 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:33:06,187 | INFO | Authentication (password) successful!
+2021-12-21 14:33:06,252 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:33:06,283 | INFO | crawling | crawling_main() | crawling | C002/203/2311/trendsalanalysis | 크롤링 성공 : 0 건
+2021-12-21 14:33:06,304 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:33:06,424 | INFO | Authentication (password) successful!
+2021-12-21 14:33:06,477 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:33:15,101 | INFO | crawling | crawling_main() | crawling | C002/203/2311/trendsalanalysis | 2 페이지
+2021-12-21 14:33:15,125 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:33:15,247 | INFO | Authentication (password) successful!
+2021-12-21 14:33:15,315 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:33:25,043 | INFO | crawling | crawling_main() | crawling | C002/203/2311/trendsalanalysisdom | 크롤링 시작
+2021-12-21 14:33:25,068 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:33:25,190 | INFO | Authentication (password) successful!
+2021-12-21 14:33:25,257 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:33:36,356 | INFO | crawling | crawling_main() | crawling | C002/203/2313/researchdata | 크롤링 시작
+2021-12-21 14:33:36,380 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:33:36,495 | INFO | Authentication (password) successful!
+2021-12-21 14:33:36,561 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:33:42,758 | INFO | crawling | crawling_main() | crawling | C002/203/2313/researchdata | 1 페이지
+2021-12-21 14:33:42,781 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:33:42,907 | INFO | Authentication (password) successful!
+2021-12-21 14:33:42,959 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:33:47,982 | INFO | crawling | crawling_main() | crawling | C002/203/2313/researchdata | 크롤링 대상 : 10 건
+2021-12-21 14:33:48,005 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:33:48,124 | INFO | Authentication (password) successful!
+2021-12-21 14:33:48,190 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:33:50,236 | INFO | crawling | crawling_main() | crawling | C002/203/2313/researchdata | 크롤링 성공 : 0 건
+2021-12-21 14:33:50,258 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:33:50,376 | INFO | Authentication (password) successful!
+2021-12-21 14:33:50,444 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:43:42,898 | INFO | crawling | crawling_main() | crawling | C002/202/2220/report | 크롤링 시작
+2021-12-21 14:43:42,922 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:43:43,044 | INFO | Authentication (password) successful!
+2021-12-21 14:43:43,103 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:43:43,136 | INFO | crawling | crawling_main() | crawling | C002/202/2220/report | 1 페이지
+2021-12-21 14:43:43,157 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:43:43,275 | INFO | Authentication (password) successful!
+2021-12-21 14:43:43,342 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:43:51,371 | INFO | crawling | crawling_main() | crawling | C002/202/2220/report | 2 페이지
+2021-12-21 14:43:51,391 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:43:51,506 | INFO | Authentication (password) successful!
+2021-12-21 14:43:51,572 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:45:06,915 | INFO | crawling | crawling_main() | crawling | C002/202/2220/report | 크롤링 시작
+2021-12-21 14:45:06,939 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:45:07,059 | INFO | Authentication (password) successful!
+2021-12-21 14:45:07,134 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:45:07,159 | INFO | crawling | crawling_main() | crawling | C002/202/2220/report | 1 페이지
+2021-12-21 14:45:07,182 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:45:07,304 | INFO | Authentication (password) successful!
+2021-12-21 14:45:07,371 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:45:15,390 | INFO | crawling | crawling_main() | crawling | C002/202/2220/report | 2 페이지
+2021-12-21 14:45:15,412 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:45:15,534 | INFO | Authentication (password) successful!
+2021-12-21 14:45:15,590 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:46:55,673 | INFO | crawling | crawling_main() | crawling | C002/203/2314/researchreport | 크롤링 시작
+2021-12-21 14:46:55,697 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:46:55,806 | INFO | Authentication (password) successful!
+2021-12-21 14:46:55,873 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:46:55,902 | INFO | crawling | crawling_main() | crawling | C002/203/2314/researchreport | 1 페이지
+2021-12-21 14:46:55,924 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:46:56,039 | INFO | Authentication (password) successful!
+2021-12-21 14:46:56,099 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:47:03,185 | INFO | crawling | crawling_main() | crawling | C002/203/2314/researchreport | 2 페이지
+2021-12-21 14:47:03,205 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:47:03,319 | INFO | Authentication (password) successful!
+2021-12-21 14:47:03,379 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:48:15,150 | INFO | crawling | crawling_main() | crawling | C002/203/2312/economy | 크롤링 시작
+2021-12-21 14:48:15,171 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:48:15,292 | INFO | Authentication (password) successful!
+2021-12-21 14:48:15,352 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:48:15,379 | INFO | crawling | crawling_main() | crawling | C002/203/2312/economy | 1 페이지
+2021-12-21 14:48:15,401 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:48:15,524 | INFO | Authentication (password) successful!
+2021-12-21 14:48:15,591 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:48:34,648 | INFO | crawling | crawling_main() | crawling | C002/203/2312/economy | 크롤링 시작
+2021-12-21 14:48:34,671 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:48:34,791 | INFO | Authentication (password) successful!
+2021-12-21 14:48:34,846 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:48:54,883 | INFO | crawling | crawling_main() | crawling | C002/203/2312/economy | 1 페이지
+2021-12-21 14:48:54,905 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:48:55,024 | INFO | Authentication (password) successful!
+2021-12-21 14:48:55,091 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:49:00,120 | INFO | crawling | crawling_main() | crawling | C002/203/2312/economy | 크롤링 대상 : 16 건
+2021-12-21 14:49:00,142 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:49:00,266 | INFO | Authentication (password) successful!
+2021-12-21 14:49:00,333 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:24,899 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 시작
+2021-12-21 14:52:24,924 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:25,046 | INFO | Authentication (password) successful!
+2021-12-21 14:52:25,114 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:25,139 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 1 페이지
+2021-12-21 14:52:25,160 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:25,275 | INFO | Authentication (password) successful!
+2021-12-21 14:52:25,338 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:28,455 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 대상 : 10 건
+2021-12-21 14:52:28,478 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:28,606 | INFO | Authentication (password) successful!
+2021-12-21 14:52:28,660 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:28,703 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 성공 : 0 건
+2021-12-21 14:52:28,725 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:28,835 | INFO | Authentication (password) successful!
+2021-12-21 14:52:28,903 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:32,328 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 2 페이지
+2021-12-21 14:52:32,352 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:32,471 | INFO | Authentication (password) successful!
+2021-12-21 14:52:32,533 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:35,598 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 대상 : 10 건
+2021-12-21 14:52:35,620 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:35,738 | INFO | Authentication (password) successful!
+2021-12-21 14:52:35,794 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:35,825 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 성공 : 0 건
+2021-12-21 14:52:35,847 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:35,960 | INFO | Authentication (password) successful!
+2021-12-21 14:52:36,018 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:38,592 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 3 페이지
+2021-12-21 14:52:38,616 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:38,742 | INFO | Authentication (password) successful!
+2021-12-21 14:52:38,808 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:41,848 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 대상 : 10 건
+2021-12-21 14:52:41,870 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:41,982 | INFO | Authentication (password) successful!
+2021-12-21 14:52:42,040 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:42,069 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 성공 : 0 건
+2021-12-21 14:52:42,097 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:42,214 | INFO | Authentication (password) successful!
+2021-12-21 14:52:42,280 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:45,048 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 4 페이지
+2021-12-21 14:52:45,076 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:45,216 | INFO | Authentication (password) successful!
+2021-12-21 14:52:45,287 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:48,327 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 대상 : 10 건
+2021-12-21 14:52:48,349 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:48,476 | INFO | Authentication (password) successful!
+2021-12-21 14:52:48,546 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:48,567 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 성공 : 0 건
+2021-12-21 14:52:48,592 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:48,707 | INFO | Authentication (password) successful!
+2021-12-21 14:52:48,773 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:51,255 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 5 페이지
+2021-12-21 14:52:51,279 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:51,402 | INFO | Authentication (password) successful!
+2021-12-21 14:52:51,474 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:54,500 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 대상 : 10 건
+2021-12-21 14:52:54,521 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:54,640 | INFO | Authentication (password) successful!
+2021-12-21 14:52:54,701 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:54,725 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 성공 : 0 건
+2021-12-21 14:52:54,747 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:54,863 | INFO | Authentication (password) successful!
+2021-12-21 14:52:54,927 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:52:57,422 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 6 페이지
+2021-12-21 14:52:57,450 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:52:57,573 | INFO | Authentication (password) successful!
+2021-12-21 14:52:57,634 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:53:00,662 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 대상 : 10 건
+2021-12-21 14:53:00,684 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:53:00,803 | INFO | Authentication (password) successful!
+2021-12-21 14:53:00,862 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:53:00,897 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 성공 : 0 건
+2021-12-21 14:53:00,920 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:53:01,021 | INFO | Authentication (password) successful!
+2021-12-21 14:53:01,088 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:53:03,512 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 7 페이지
+2021-12-21 14:53:03,537 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:53:03,658 | INFO | Authentication (password) successful!
+2021-12-21 14:53:03,727 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:53:06,761 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 대상 : 10 건
+2021-12-21 14:53:06,779 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:53:06,896 | INFO | Authentication (password) successful!
+2021-12-21 14:53:06,963 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:53:07,003 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 성공 : 0 건
+2021-12-21 14:53:07,028 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:53:07,150 | INFO | Authentication (password) successful!
+2021-12-21 14:53:07,214 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:53:10,226 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B64CCEB688>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/3e27f5fcc7e4da04922dfe5629514b5f/window
+2021-12-21 14:53:12,273 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B64CD07248>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/3e27f5fcc7e4da04922dfe5629514b5f/window
+2021-12-21 14:53:14,296 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B64CD07988>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/3e27f5fcc7e4da04922dfe5629514b5f/window
+2021-12-21 14:57:43,513 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 시작
+2021-12-21 14:57:43,538 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:57:43,658 | INFO | Authentication (password) successful!
+2021-12-21 14:57:43,726 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:57:43,835 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 1 페이지
+2021-12-21 14:57:43,856 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:57:43,981 | INFO | Authentication (password) successful!
+2021-12-21 14:57:44,047 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:57:47,105 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 대상 : 10 건
+2021-12-21 14:57:47,125 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:57:47,245 | INFO | Authentication (password) successful!
+2021-12-21 14:57:47,323 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:57:47,351 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 성공 : 0 건
+2021-12-21 14:57:47,373 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:57:47,478 | INFO | Authentication (password) successful!
+2021-12-21 14:57:47,539 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:57:49,130 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 2 페이지
+2021-12-21 14:57:49,154 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:57:49,273 | INFO | Authentication (password) successful!
+2021-12-21 14:57:49,326 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:57:52,366 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 대상 : 10 건
+2021-12-21 14:57:52,389 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:57:52,508 | INFO | Authentication (password) successful!
+2021-12-21 14:57:52,564 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:57:52,591 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 크롤링 성공 : 0 건
+2021-12-21 14:57:52,612 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:57:52,734 | INFO | Authentication (password) successful!
+2021-12-21 14:57:52,789 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 14:57:54,392 | INFO | crawling | crawling_main() | crawling | C003/304/3405/news | 3 페이지
+2021-12-21 14:57:54,415 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 14:57:54,533 | INFO | Authentication (password) successful!
+2021-12-21 14:57:54,595 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:05:28,333 | INFO | crawling | crawling_main() | crawling | C002/202/2221/pressinfo | 크롤링 시작
+2021-12-21 15:05:28,355 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:05:28,478 | INFO | Authentication (password) successful!
+2021-12-21 15:05:28,532 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:05:28,557 | INFO | crawling | crawling_main() | crawling | C002/202/2221/pressinfo | 1 페이지
+2021-12-21 15:05:28,579 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:05:28,700 | INFO | Authentication (password) successful!
+2021-12-21 15:05:28,757 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:05:28,767 | INFO | crawling | crawling_main() | crawling | C002/202/2221/pressinfo | 크롤링 대상 : 10 건
+2021-12-21 15:05:28,788 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:05:28,903 | INFO | Authentication (password) successful!
+2021-12-21 15:05:28,969 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:05:29,003 | INFO | crawling | crawling_main() | crawling | C002/202/2221/pressinfo | 크롤링 성공 : 0 건
+2021-12-21 15:05:29,026 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:05:29,148 | INFO | Authentication (password) successful!
+2021-12-21 15:05:29,213 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:05:35,675 | INFO | crawling | crawling_main() | crawling | C002/202/2221/pressinfo | 2 페이지
+2021-12-21 15:05:35,698 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:05:35,815 | INFO | Authentication (password) successful!
+2021-12-21 15:05:35,882 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:05:35,892 | INFO | crawling | crawling_main() | crawling | C002/202/2221/pressinfo | 크롤링 대상 : 10 건
+2021-12-21 15:05:35,912 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:05:36,027 | INFO | Authentication (password) successful!
+2021-12-21 15:05:36,089 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:05:36,121 | INFO | crawling | crawling_main() | crawling | C002/202/2221/pressinfo | 크롤링 성공 : 0 건
+2021-12-21 15:05:36,141 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:05:36,250 | INFO | Authentication (password) successful!
+2021-12-21 15:05:36,318 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:05:43,656 | INFO | crawling | crawling_main() | crawling | C002/202/2221/pressinfo | 크롤링 시작
+2021-12-21 15:05:43,677 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:05:43,799 | INFO | Authentication (password) successful!
+2021-12-21 15:05:43,858 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:05:43,882 | INFO | crawling | crawling_main() | crawling | C002/202/2221/pressinfo | 1 페이지
+2021-12-21 15:05:43,905 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:05:44,030 | INFO | Authentication (password) successful!
+2021-12-21 15:05:44,086 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:05:44,103 | INFO | crawling | crawling_main() | crawling | C002/202/2221/pressinfo | 크롤링 대상 : 10 건
+2021-12-21 15:05:44,124 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:05:44,243 | INFO | Authentication (password) successful!
+2021-12-21 15:05:44,294 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:05:44,324 | INFO | crawling | crawling_main() | crawling | C002/202/2221/pressinfo | 크롤링 성공 : 0 건
+2021-12-21 15:05:44,348 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:05:44,468 | INFO | Authentication (password) successful!
+2021-12-21 15:05:44,541 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:19:25,295 | INFO | crawling | crawling_main() | crawling | C002/202/2212/domestic | 크롤링 시작
+2021-12-21 15:19:25,322 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:19:25,444 | INFO | Authentication (password) successful!
+2021-12-21 15:19:25,511 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:07,019 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 크롤링 시작
+2021-12-21 15:28:07,040 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:07,164 | INFO | Authentication (password) successful!
+2021-12-21 15:28:07,221 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:11,408 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 1 페이지
+2021-12-21 15:28:11,430 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:11,552 | INFO | Authentication (password) successful!
+2021-12-21 15:28:11,611 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:11,622 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 크롤링 대상 : 10 건
+2021-12-21 15:28:11,646 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:11,763 | INFO | Authentication (password) successful!
+2021-12-21 15:28:11,821 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:11,858 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 크롤링 성공 : 0 건
+2021-12-21 15:28:11,885 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:12,007 | INFO | Authentication (password) successful!
+2021-12-21 15:28:12,062 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:19,982 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 2 페이지
+2021-12-21 15:28:20,005 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:20,125 | INFO | Authentication (password) successful!
+2021-12-21 15:28:20,184 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:20,193 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 크롤링 대상 : 10 건
+2021-12-21 15:28:20,212 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:20,331 | INFO | Authentication (password) successful!
+2021-12-21 15:28:20,396 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:20,418 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 크롤링 성공 : 0 건
+2021-12-21 15:28:20,440 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:20,554 | INFO | Authentication (password) successful!
+2021-12-21 15:28:20,623 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:28,840 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 3 페이지
+2021-12-21 15:28:28,864 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:28,988 | INFO | Authentication (password) successful!
+2021-12-21 15:28:29,050 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:29,065 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 크롤링 대상 : 10 건
+2021-12-21 15:28:29,087 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:29,208 | INFO | Authentication (password) successful!
+2021-12-21 15:28:29,275 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:29,301 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 크롤링 성공 : 0 건
+2021-12-21 15:28:29,318 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:29,433 | INFO | Authentication (password) successful!
+2021-12-21 15:28:29,501 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:37,787 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 4 페이지
+2021-12-21 15:28:37,810 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:37,927 | INFO | Authentication (password) successful!
+2021-12-21 15:28:38,000 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:38,018 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 크롤링 대상 : 10 건
+2021-12-21 15:28:38,040 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:38,159 | INFO | Authentication (password) successful!
+2021-12-21 15:28:38,228 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:28:38,255 | INFO | crawling | crawling_main() | crawling | C002/202/2213/news | 크롤링 성공 : 0 건
+2021-12-21 15:28:38,278 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:28:38,382 | INFO | Authentication (password) successful!
+2021-12-21 15:28:38,441 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:29:10,876 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 시작
+2021-12-21 15:29:10,898 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:29:11,012 | INFO | Authentication (password) successful!
+2021-12-21 15:29:11,076 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:29:15,284 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 1 페이지
+2021-12-21 15:29:15,305 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:29:15,423 | INFO | Authentication (password) successful!
+2021-12-21 15:29:15,494 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:29:15,508 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:29:15,530 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:29:15,648 | INFO | Authentication (password) successful!
+2021-12-21 15:29:15,713 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:30:22,457 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:30:22,544 | INFO | Authentication (password) successful!
+2021-12-21 15:30:22,607 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:31:29,599 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:31:29,713 | INFO | Authentication (password) successful!
+2021-12-21 15:31:29,768 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:32:36,821 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:32:36,944 | INFO | Authentication (password) successful!
+2021-12-21 15:32:37,005 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:32:37,125 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 3 건
+2021-12-21 15:32:37,146 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:32:37,264 | INFO | Authentication (password) successful!
+2021-12-21 15:32:37,318 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:32:44,324 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 2 페이지
+2021-12-21 15:32:44,345 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:32:44,455 | INFO | Authentication (password) successful!
+2021-12-21 15:32:44,521 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:32:44,532 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:32:44,552 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:32:44,662 | INFO | Authentication (password) successful!
+2021-12-21 15:32:44,718 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:32:44,741 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:32:44,760 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:32:44,875 | INFO | Authentication (password) successful!
+2021-12-21 15:32:44,929 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:09,653 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 시작
+2021-12-21 15:33:09,676 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:09,795 | INFO | Authentication (password) successful!
+2021-12-21 15:33:09,854 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:14,008 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 1 페이지
+2021-12-21 15:33:14,027 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:14,149 | INFO | Authentication (password) successful!
+2021-12-21 15:33:14,212 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:14,223 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 대상 : 10 건
+2021-12-21 15:33:14,243 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:14,329 | INFO | Authentication (password) successful!
+2021-12-21 15:33:14,393 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:14,418 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 성공 : 0 건
+2021-12-21 15:33:14,433 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:14,551 | INFO | Authentication (password) successful!
+2021-12-21 15:33:14,640 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:20,939 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 2 페이지
+2021-12-21 15:33:20,960 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:21,083 | INFO | Authentication (password) successful!
+2021-12-21 15:33:21,154 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:21,162 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 대상 : 10 건
+2021-12-21 15:33:21,179 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:21,294 | INFO | Authentication (password) successful!
+2021-12-21 15:33:21,351 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:21,372 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 성공 : 0 건
+2021-12-21 15:33:21,393 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:21,505 | INFO | Authentication (password) successful!
+2021-12-21 15:33:21,562 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:27,884 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 3 페이지
+2021-12-21 15:33:27,907 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:28,014 | INFO | Authentication (password) successful!
+2021-12-21 15:33:28,075 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:28,086 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 대상 : 10 건
+2021-12-21 15:33:28,106 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:28,223 | INFO | Authentication (password) successful!
+2021-12-21 15:33:28,284 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:28,308 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 성공 : 0 건
+2021-12-21 15:33:28,328 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:28,440 | INFO | Authentication (password) successful!
+2021-12-21 15:33:28,510 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:35,036 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 4 페이지
+2021-12-21 15:33:35,057 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:35,175 | INFO | Authentication (password) successful!
+2021-12-21 15:33:35,232 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:55,518 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 시작
+2021-12-21 15:33:55,540 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:55,648 | INFO | Authentication (password) successful!
+2021-12-21 15:33:55,705 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:33:59,818 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 1 페이지
+2021-12-21 15:33:59,840 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:33:59,962 | INFO | Authentication (password) successful!
+2021-12-21 15:34:00,055 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:34:00,068 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 대상 : 10 건
+2021-12-21 15:34:00,092 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:34:00,201 | INFO | Authentication (password) successful!
+2021-12-21 15:34:00,263 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:34:37,154 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:34:37,279 | INFO | Authentication (password) successful!
+2021-12-21 15:34:37,348 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:34:37,463 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 성공 : 1 건
+2021-12-21 15:34:37,486 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:34:37,609 | INFO | Authentication (password) successful!
+2021-12-21 15:34:37,677 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:34:42,531 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 2 페이지
+2021-12-21 15:34:42,554 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:34:42,674 | INFO | Authentication (password) successful!
+2021-12-21 15:34:42,739 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:34:42,748 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 대상 : 10 건
+2021-12-21 15:34:42,764 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:34:42,857 | INFO | Authentication (password) successful!
+2021-12-21 15:34:42,921 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:34:42,943 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 성공 : 0 건
+2021-12-21 15:34:42,965 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:34:43,079 | INFO | Authentication (password) successful!
+2021-12-21 15:34:43,147 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:34:47,974 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 3 페이지
+2021-12-21 15:34:47,995 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:34:48,110 | INFO | Authentication (password) successful!
+2021-12-21 15:34:48,168 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:34:48,186 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 대상 : 10 건
+2021-12-21 15:34:48,207 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:34:48,303 | INFO | Authentication (password) successful!
+2021-12-21 15:34:48,363 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:34:48,385 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 성공 : 0 건
+2021-12-21 15:34:48,403 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:34:48,520 | INFO | Authentication (password) successful!
+2021-12-21 15:34:48,588 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:38:36,722 | INFO | crawling | crawling_main() | crawling | C002/202/2214/news | 크롤링 시작
+2021-12-21 15:38:36,744 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:38:36,861 | INFO | Authentication (password) successful!
+2021-12-21 15:38:36,928 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:39:29,945 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 시작
+2021-12-21 15:39:29,968 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:39:30,087 | INFO | Authentication (password) successful!
+2021-12-21 15:39:30,150 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:39:34,373 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 1 페이지
+2021-12-21 15:39:34,391 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:39:34,509 | INFO | Authentication (password) successful!
+2021-12-21 15:39:34,577 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:39:34,594 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:39:34,615 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:39:34,735 | INFO | Authentication (password) successful!
+2021-12-21 15:39:34,803 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:40:41,522 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:40:41,638 | INFO | Authentication (password) successful!
+2021-12-21 15:40:41,702 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:41:48,577 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:41:48,694 | INFO | Authentication (password) successful!
+2021-12-21 15:41:48,757 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:42:55,786 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:42:55,908 | INFO | Authentication (password) successful!
+2021-12-21 15:42:55,970 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:42:56,081 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 3 건
+2021-12-21 15:42:56,103 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:42:56,205 | INFO | Authentication (password) successful!
+2021-12-21 15:42:56,270 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:03,235 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 2 페이지
+2021-12-21 15:43:03,257 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:03,379 | INFO | Authentication (password) successful!
+2021-12-21 15:43:03,436 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:03,448 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:43:03,470 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:03,589 | INFO | Authentication (password) successful!
+2021-12-21 15:43:03,648 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:03,688 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:43:03,710 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:03,829 | INFO | Authentication (password) successful!
+2021-12-21 15:43:03,890 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:11,663 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 3 페이지
+2021-12-21 15:43:11,690 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:11,815 | INFO | Authentication (password) successful!
+2021-12-21 15:43:11,874 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:11,884 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:43:11,903 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:12,020 | INFO | Authentication (password) successful!
+2021-12-21 15:43:12,084 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:12,111 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:43:12,133 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:12,248 | INFO | Authentication (password) successful!
+2021-12-21 15:43:12,309 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:20,567 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 4 페이지
+2021-12-21 15:43:20,590 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:20,708 | INFO | Authentication (password) successful!
+2021-12-21 15:43:20,769 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:20,780 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:43:20,801 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:20,915 | INFO | Authentication (password) successful!
+2021-12-21 15:43:20,977 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:20,996 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:43:21,013 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:21,101 | INFO | Authentication (password) successful!
+2021-12-21 15:43:21,159 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:29,784 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 5 페이지
+2021-12-21 15:43:29,800 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:29,913 | INFO | Authentication (password) successful!
+2021-12-21 15:43:29,975 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:29,983 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:43:30,004 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:30,117 | INFO | Authentication (password) successful!
+2021-12-21 15:43:30,182 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:30,206 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:43:30,228 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:30,342 | INFO | Authentication (password) successful!
+2021-12-21 15:43:30,409 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:39,305 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 6 페이지
+2021-12-21 15:43:39,325 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:39,441 | INFO | Authentication (password) successful!
+2021-12-21 15:43:39,507 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:39,517 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:43:39,538 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:39,659 | INFO | Authentication (password) successful!
+2021-12-21 15:43:39,718 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:39,742 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:43:39,763 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:39,881 | INFO | Authentication (password) successful!
+2021-12-21 15:43:39,945 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:48,862 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 7 페이지
+2021-12-21 15:43:48,885 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:49,007 | INFO | Authentication (password) successful!
+2021-12-21 15:43:49,078 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:49,093 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:43:49,116 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:49,239 | INFO | Authentication (password) successful!
+2021-12-21 15:43:49,307 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:49,335 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:43:49,358 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:49,477 | INFO | Authentication (password) successful!
+2021-12-21 15:43:49,543 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:58,471 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 8 페이지
+2021-12-21 15:43:58,495 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:58,609 | INFO | Authentication (password) successful!
+2021-12-21 15:43:58,663 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:58,672 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:43:58,691 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:58,806 | INFO | Authentication (password) successful!
+2021-12-21 15:43:58,875 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:43:58,903 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:43:58,925 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:43:59,036 | INFO | Authentication (password) successful!
+2021-12-21 15:43:59,101 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:08,250 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 9 페이지
+2021-12-21 15:44:08,272 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:08,388 | INFO | Authentication (password) successful!
+2021-12-21 15:44:08,449 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:08,475 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:44:08,498 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:08,612 | INFO | Authentication (password) successful!
+2021-12-21 15:44:08,673 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:08,696 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:44:08,716 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:08,837 | INFO | Authentication (password) successful!
+2021-12-21 15:44:08,903 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:17,994 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 10 페이지
+2021-12-21 15:44:18,016 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:18,132 | INFO | Authentication (password) successful!
+2021-12-21 15:44:18,192 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:18,204 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:44:18,225 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:18,325 | INFO | Authentication (password) successful!
+2021-12-21 15:44:18,392 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:18,412 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:44:18,432 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:18,535 | INFO | Authentication (password) successful!
+2021-12-21 15:44:18,590 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:27,686 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 11 페이지
+2021-12-21 15:44:27,710 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:27,819 | INFO | Authentication (password) successful!
+2021-12-21 15:44:27,878 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:27,910 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:44:27,933 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:28,051 | INFO | Authentication (password) successful!
+2021-12-21 15:44:28,120 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:28,145 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:44:28,167 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:28,277 | INFO | Authentication (password) successful!
+2021-12-21 15:44:28,332 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:37,280 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 12 페이지
+2021-12-21 15:44:37,301 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:37,417 | INFO | Authentication (password) successful!
+2021-12-21 15:44:37,474 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:37,492 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:44:37,513 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:37,633 | INFO | Authentication (password) successful!
+2021-12-21 15:44:37,698 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:37,721 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:44:37,742 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:37,864 | INFO | Authentication (password) successful!
+2021-12-21 15:44:37,925 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:47,126 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 13 페이지
+2021-12-21 15:44:47,148 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:47,263 | INFO | Authentication (password) successful!
+2021-12-21 15:44:47,326 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:47,337 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:44:47,358 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:47,443 | INFO | Authentication (password) successful!
+2021-12-21 15:44:47,504 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:47,534 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:44:47,554 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:47,674 | INFO | Authentication (password) successful!
+2021-12-21 15:44:47,733 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:56,765 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 14 페이지
+2021-12-21 15:44:56,784 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:56,904 | INFO | Authentication (password) successful!
+2021-12-21 15:44:56,973 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:56,984 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:44:57,005 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:57,118 | INFO | Authentication (password) successful!
+2021-12-21 15:44:57,184 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:44:57,210 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:44:57,232 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:44:57,351 | INFO | Authentication (password) successful!
+2021-12-21 15:44:57,413 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:06,482 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 15 페이지
+2021-12-21 15:45:06,502 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:06,609 | INFO | Authentication (password) successful!
+2021-12-21 15:45:06,672 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:06,684 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:45:06,704 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:06,819 | INFO | Authentication (password) successful!
+2021-12-21 15:45:06,882 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:06,907 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:45:06,928 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:07,038 | INFO | Authentication (password) successful!
+2021-12-21 15:45:07,095 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:16,199 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 16 페이지
+2021-12-21 15:45:16,220 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:16,338 | INFO | Authentication (password) successful!
+2021-12-21 15:45:16,399 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:16,416 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:45:16,437 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:16,531 | INFO | Authentication (password) successful!
+2021-12-21 15:45:16,593 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:16,620 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:45:16,642 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:16,759 | INFO | Authentication (password) successful!
+2021-12-21 15:45:16,819 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:26,146 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 17 페이지
+2021-12-21 15:45:26,169 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:26,289 | INFO | Authentication (password) successful!
+2021-12-21 15:45:26,354 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:26,368 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:45:26,394 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:26,514 | INFO | Authentication (password) successful!
+2021-12-21 15:45:26,579 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:26,611 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:45:26,631 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:26,766 | INFO | Authentication (password) successful!
+2021-12-21 15:45:26,835 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:36,006 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 18 페이지
+2021-12-21 15:45:36,022 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:36,135 | INFO | Authentication (password) successful!
+2021-12-21 15:45:36,202 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:36,212 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:45:36,235 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:36,354 | INFO | Authentication (password) successful!
+2021-12-21 15:45:36,421 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:36,447 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:45:36,470 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:36,592 | INFO | Authentication (password) successful!
+2021-12-21 15:45:36,656 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:45,820 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 19 페이지
+2021-12-21 15:45:45,841 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:45,946 | INFO | Authentication (password) successful!
+2021-12-21 15:45:46,011 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:46,022 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:45:46,044 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:46,166 | INFO | Authentication (password) successful!
+2021-12-21 15:45:46,221 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:46,245 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:45:46,266 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:46,388 | INFO | Authentication (password) successful!
+2021-12-21 15:45:46,459 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:55,694 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 20 페이지
+2021-12-21 15:45:55,716 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:55,834 | INFO | Authentication (password) successful!
+2021-12-21 15:45:55,891 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:55,906 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:45:55,929 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:56,021 | INFO | Authentication (password) successful!
+2021-12-21 15:45:56,089 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:45:56,109 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:45:56,140 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:45:56,247 | INFO | Authentication (password) successful!
+2021-12-21 15:45:56,317 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:46:05,648 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 21 페이지
+2021-12-21 15:46:05,677 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:46:05,790 | INFO | Authentication (password) successful!
+2021-12-21 15:46:05,850 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:46:05,858 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:46:05,879 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:46:06,003 | INFO | Authentication (password) successful!
+2021-12-21 15:46:06,059 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:46:06,092 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:46:06,113 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:46:06,231 | INFO | Authentication (password) successful!
+2021-12-21 15:46:06,290 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:46:15,387 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 22 페이지
+2021-12-21 15:46:15,409 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:46:15,526 | INFO | Authentication (password) successful!
+2021-12-21 15:46:15,590 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:46:15,599 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:46:15,616 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:46:15,725 | INFO | Authentication (password) successful!
+2021-12-21 15:46:15,786 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:46:15,807 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:46:15,829 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:46:15,949 | INFO | Authentication (password) successful!
+2021-12-21 15:46:16,014 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:46:25,223 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 23 페이지
+2021-12-21 15:46:25,248 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:46:25,360 | INFO | Authentication (password) successful!
+2021-12-21 15:46:25,418 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:46:25,431 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 대상 : 10 건
+2021-12-21 15:46:25,453 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:46:25,575 | INFO | Authentication (password) successful!
+2021-12-21 15:46:25,642 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:46:25,671 | INFO | crawling | crawling_main() | crawling | C002/202/2215/policy | 크롤링 성공 : 0 건
+2021-12-21 15:46:25,693 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:46:25,804 | INFO | Authentication (password) successful!
+2021-12-21 15:46:25,868 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:46:57,060 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 시작
+2021-12-21 15:46:57,087 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:46:57,205 | INFO | Authentication (password) successful!
+2021-12-21 15:46:57,264 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:47:01,414 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 1 페이지
+2021-12-21 15:47:01,443 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:47:01,540 | INFO | Authentication (password) successful!
+2021-12-21 15:47:01,603 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:47:01,614 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 대상 : 10 건
+2021-12-21 15:47:01,641 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:47:01,756 | INFO | Authentication (password) successful!
+2021-12-21 15:47:01,812 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:47:01,839 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 성공 : 0 건
+2021-12-21 15:47:01,859 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:47:01,972 | INFO | Authentication (password) successful!
+2021-12-21 15:47:02,039 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:47:08,274 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 2 페이지
+2021-12-21 15:47:08,308 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:47:08,423 | INFO | Authentication (password) successful!
+2021-12-21 15:47:08,484 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:47:08,514 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 대상 : 10 건
+2021-12-21 15:47:08,533 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:47:08,630 | INFO | Authentication (password) successful!
+2021-12-21 15:47:08,697 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:47:08,724 | INFO | crawling | crawling_main() | crawling | C002/202/2216/news | 크롤링 성공 : 0 건
+2021-12-21 15:47:08,748 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:47:08,864 | INFO | Authentication (password) successful!
+2021-12-21 15:47:08,919 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:47:41,031 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 시작
+2021-12-21 15:47:41,059 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:47:41,179 | INFO | Authentication (password) successful!
+2021-12-21 15:47:41,236 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:47:45,377 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 1 페이지
+2021-12-21 15:47:45,398 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:47:45,505 | INFO | Authentication (password) successful!
+2021-12-21 15:47:45,565 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:47:45,577 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 대상 : 10 건
+2021-12-21 15:47:45,598 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:47:45,722 | INFO | Authentication (password) successful!
+2021-12-21 15:47:45,776 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:48:22,575 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:48:22,696 | INFO | Authentication (password) successful!
+2021-12-21 15:48:22,758 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:48:22,891 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 성공 : 1 건
+2021-12-21 15:48:22,912 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:48:23,026 | INFO | Authentication (password) successful!
+2021-12-21 15:48:23,090 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:48:27,875 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 2 페이지
+2021-12-21 15:48:27,898 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:48:28,012 | INFO | Authentication (password) successful!
+2021-12-21 15:48:28,079 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:48:28,090 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 대상 : 10 건
+2021-12-21 15:48:28,107 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:48:28,222 | INFO | Authentication (password) successful!
+2021-12-21 15:48:28,290 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:48:28,309 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 성공 : 0 건
+2021-12-21 15:48:28,328 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:48:28,443 | INFO | Authentication (password) successful!
+2021-12-21 15:48:28,503 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:48:33,259 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 3 페이지
+2021-12-21 15:48:33,275 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:48:33,389 | INFO | Authentication (password) successful!
+2021-12-21 15:48:33,454 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:48:33,470 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 대상 : 10 건
+2021-12-21 15:48:33,491 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:48:33,606 | INFO | Authentication (password) successful!
+2021-12-21 15:48:33,666 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:48:33,693 | INFO | crawling | crawling_main() | crawling | C002/202/2217/policy | 크롤링 성공 : 0 건
+2021-12-21 15:48:33,716 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:48:33,833 | INFO | Authentication (password) successful!
+2021-12-21 15:48:33,890 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:50:32,321 | INFO | crawling | crawling_main() | crawling | C002/202/2217/news | 크롤링 시작
+2021-12-21 15:50:32,342 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:50:32,462 | INFO | Authentication (password) successful!
+2021-12-21 15:50:32,523 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:50:36,604 | INFO | crawling | crawling_main() | crawling | C002/202/2217/news | 1 페이지
+2021-12-21 15:50:36,629 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:50:36,715 | INFO | Authentication (password) successful!
+2021-12-21 15:50:36,778 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:50:36,794 | INFO | crawling | crawling_main() | crawling | C002/202/2217/news | 크롤링 대상 : 10 건
+2021-12-21 15:50:36,817 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:50:36,938 | INFO | Authentication (password) successful!
+2021-12-21 15:50:37,006 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:50:37,035 | INFO | crawling | crawling_main() | crawling | C002/202/2217/news | 크롤링 성공 : 0 건
+2021-12-21 15:50:37,058 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:50:37,189 | INFO | Authentication (password) successful!
+2021-12-21 15:50:37,249 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:50:52,605 | INFO | crawling | crawling_main() | crawling | C002/202/2217/news | 2 페이지
+2021-12-21 15:50:52,629 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:50:52,746 | INFO | Authentication (password) successful!
+2021-12-21 15:50:52,807 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:50:52,816 | INFO | crawling | crawling_main() | crawling | C002/202/2217/news | 크롤링 대상 : 10 건
+2021-12-21 15:50:52,836 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:50:52,956 | INFO | Authentication (password) successful!
+2021-12-21 15:50:53,022 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:50:53,043 | INFO | crawling | crawling_main() | crawling | C002/202/2217/news | 크롤링 성공 : 0 건
+2021-12-21 15:50:53,063 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:50:53,179 | INFO | Authentication (password) successful!
+2021-12-21 15:50:53,236 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:51:35,775 | INFO | crawling | crawling_main() | crawling | C002/202/2218/news | 크롤링 시작
+2021-12-21 15:51:35,797 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:51:35,915 | INFO | Authentication (password) successful!
+2021-12-21 15:51:35,978 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:51:40,078 | INFO | crawling | crawling_main() | crawling | C002/202/2218/news | 1 페이지
+2021-12-21 15:51:40,097 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:51:40,216 | INFO | Authentication (password) successful!
+2021-12-21 15:51:40,279 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:51:40,290 | INFO | crawling | crawling_main() | crawling | C002/202/2218/news | 크롤링 대상 : 10 건
+2021-12-21 15:51:40,308 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:51:40,422 | INFO | Authentication (password) successful!
+2021-12-21 15:51:40,489 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:51:40,519 | INFO | crawling | crawling_main() | crawling | C002/202/2218/news | 크롤링 성공 : 0 건
+2021-12-21 15:51:40,536 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:51:40,648 | INFO | Authentication (password) successful!
+2021-12-21 15:51:40,714 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:01,711 | INFO | crawling | crawling_main() | crawling | C002/202/2218/news | 2 페이지
+2021-12-21 15:52:01,734 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:01,852 | INFO | Authentication (password) successful!
+2021-12-21 15:52:01,915 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:01,925 | INFO | crawling | crawling_main() | crawling | C002/202/2218/news | 크롤링 대상 : 10 건
+2021-12-21 15:52:01,947 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:02,065 | INFO | Authentication (password) successful!
+2021-12-21 15:52:02,125 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:02,146 | INFO | crawling | crawling_main() | crawling | C002/202/2218/news | 크롤링 성공 : 0 건
+2021-12-21 15:52:02,171 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:02,289 | INFO | Authentication (password) successful!
+2021-12-21 15:52:02,353 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:38,251 | INFO | crawling | crawling_main() | crawling | C002/202/2218/econotrends | 크롤링 시작
+2021-12-21 15:52:38,271 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:38,398 | INFO | Authentication (password) successful!
+2021-12-21 15:52:38,466 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:42,521 | INFO | crawling | crawling_main() | crawling | C002/202/2218/econotrends | 1 페이지
+2021-12-21 15:52:42,542 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:42,663 | INFO | Authentication (password) successful!
+2021-12-21 15:52:42,720 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:42,730 | INFO | crawling | crawling_main() | crawling | C002/202/2218/econotrends | 크롤링 대상 : 2 건
+2021-12-21 15:52:42,751 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:42,841 | INFO | Authentication (password) successful!
+2021-12-21 15:52:42,902 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:42,937 | INFO | crawling | crawling_main() | crawling | C002/202/2218/econotrends | 크롤링 성공 : 0 건
+2021-12-21 15:52:42,957 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:43,066 | INFO | Authentication (password) successful!
+2021-12-21 15:52:43,130 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:45,296 | INFO | crawling | crawling_main() | crawling | C002/202/2218/econotrends | 크롤링 종료
+2021-12-21 15:52:45,322 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:45,441 | INFO | Authentication (password) successful!
+2021-12-21 15:52:45,499 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:53,740 | INFO | crawling | crawling_main() | crawling | C002/202/2213/policy | 크롤링 시작
+2021-12-21 15:52:53,763 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:53,881 | INFO | Authentication (password) successful!
+2021-12-21 15:52:53,941 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:58,064 | INFO | crawling | crawling_main() | crawling | C002/202/2213/policy | 1 페이지
+2021-12-21 15:52:58,092 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:58,207 | INFO | Authentication (password) successful!
+2021-12-21 15:52:58,266 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:58,279 | INFO | crawling | crawling_main() | crawling | C002/202/2213/policy | 크롤링 대상 : 10 건
+2021-12-21 15:52:58,296 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:58,418 | INFO | Authentication (password) successful!
+2021-12-21 15:52:58,477 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:52:58,503 | INFO | crawling | crawling_main() | crawling | C002/202/2213/policy | 크롤링 성공 : 0 건
+2021-12-21 15:52:58,526 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:52:58,653 | INFO | Authentication (password) successful!
+2021-12-21 15:52:58,706 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:53:03,222 | INFO | crawling | crawling_main() | crawling | C002/202/2213/policy | 2 페이지
+2021-12-21 15:53:03,244 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:53:03,363 | INFO | Authentication (password) successful!
+2021-12-21 15:53:03,418 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:53:03,428 | INFO | crawling | crawling_main() | crawling | C002/202/2213/policy | 크롤링 대상 : 10 건
+2021-12-21 15:53:03,451 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:53:03,562 | INFO | Authentication (password) successful!
+2021-12-21 15:53:03,631 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 15:53:03,664 | INFO | crawling | crawling_main() | crawling | C002/202/2213/policy | 크롤링 성공 : 0 건
+2021-12-21 15:53:03,685 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 15:53:03,802 | INFO | Authentication (password) successful!
+2021-12-21 15:53:03,871 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:39:10,946 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 16:39:10,969 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:39:11,077 | INFO | Authentication (password) successful!
+2021-12-21 16:39:11,137 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:39:31,182 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 16:39:31,206 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:39:31,319 | INFO | Authentication (password) successful!
+2021-12-21 16:39:31,376 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:39:36,399 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 16:39:36,421 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:39:36,544 | INFO | Authentication (password) successful!
+2021-12-21 16:39:36,612 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:46:37,474 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 16:46:37,497 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:46:37,608 | INFO | Authentication (password) successful!
+2021-12-21 16:46:37,668 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:46:57,700 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 16:46:57,723 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:46:57,844 | INFO | Authentication (password) successful!
+2021-12-21 16:46:57,912 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:47:02,937 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 16:47:02,960 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:47:03,081 | INFO | Authentication (password) successful!
+2021-12-21 16:47:03,151 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:57:41,590 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 16:57:41,612 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:57:41,730 | INFO | Authentication (password) successful!
+2021-12-21 16:57:41,798 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:58:01,829 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 16:58:01,851 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:58:02,215 | INFO | Authentication (password) successful!
+2021-12-21 16:58:02,290 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:58:07,316 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 16:58:07,337 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:58:07,444 | INFO | Authentication (password) successful!
+2021-12-21 16:58:07,501 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:58:53,646 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-21 16:58:53,666 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:58:53,782 | INFO | Authentication (password) successful!
+2021-12-21 16:58:53,853 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:59:13,880 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-21 16:59:13,903 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:59:14,009 | INFO | Authentication (password) successful!
+2021-12-21 16:59:14,077 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 16:59:19,107 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-21 16:59:19,131 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 16:59:19,250 | INFO | Authentication (password) successful!
+2021-12-21 16:59:19,318 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:01:10,063 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 시작
+2021-12-21 17:01:10,092 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:01:10,211 | INFO | Authentication (password) successful!
+2021-12-21 17:01:10,264 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:01:30,305 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 2 페이지
+2021-12-21 17:01:30,331 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:01:30,460 | INFO | Authentication (password) successful!
+2021-12-21 17:01:30,509 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:01:35,540 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 대상 : 10 건
+2021-12-21 17:01:35,562 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:01:35,678 | INFO | Authentication (password) successful!
+2021-12-21 17:01:35,734 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:02:06,772 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:02:06,892 | INFO | Authentication (password) successful!
+2021-12-21 17:02:06,954 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:05:53,713 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 시작
+2021-12-21 17:05:53,741 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:05:53,860 | INFO | Authentication (password) successful!
+2021-12-21 17:05:53,927 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:06:15,151 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 시작
+2021-12-21 17:06:15,173 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:06:15,291 | INFO | Authentication (password) successful!
+2021-12-21 17:06:15,353 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:08:11,346 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 시작
+2021-12-21 17:08:11,369 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:08:11,490 | INFO | Authentication (password) successful!
+2021-12-21 17:08:11,573 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:08:31,607 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 2 페이지
+2021-12-21 17:08:31,627 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:08:31,751 | INFO | Authentication (password) successful!
+2021-12-21 17:08:31,814 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:08:41,095 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 대상 : 10 건
+2021-12-21 17:08:41,115 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:08:41,224 | INFO | Authentication (password) successful!
+2021-12-21 17:08:41,280 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:09:12,553 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:09:12,674 | INFO | Authentication (password) successful!
+2021-12-21 17:09:12,734 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:26:55,733 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 시작
+2021-12-21 17:26:55,755 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:26:55,866 | INFO | Authentication (password) successful!
+2021-12-21 17:26:55,918 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:27:15,964 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 2 페이지
+2021-12-21 17:27:15,984 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:27:16,093 | INFO | Authentication (password) successful!
+2021-12-21 17:27:16,152 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:27:21,200 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 대상 : 10 건
+2021-12-21 17:27:21,221 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:27:21,341 | INFO | Authentication (password) successful!
+2021-12-21 17:27:21,409 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:32:37,126 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 시작
+2021-12-21 17:32:37,153 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:32:37,274 | INFO | Authentication (password) successful!
+2021-12-21 17:32:37,332 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:32:57,370 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 2 페이지
+2021-12-21 17:32:57,393 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:32:57,507 | INFO | Authentication (password) successful!
+2021-12-21 17:32:57,578 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:33:02,607 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 대상 : 10 건
+2021-12-21 17:33:02,630 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:33:02,747 | INFO | Authentication (password) successful!
+2021-12-21 17:33:02,806 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:33:58,028 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 시작
+2021-12-21 17:33:58,053 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:33:58,171 | INFO | Authentication (password) successful!
+2021-12-21 17:33:58,229 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:34:18,283 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 2 페이지
+2021-12-21 17:34:18,303 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:34:18,418 | INFO | Authentication (password) successful!
+2021-12-21 17:34:18,481 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:34:23,502 | INFO | crawling | crawling_main() | crawling | C002/202/2203/policydata | 크롤링 대상 : 10 건
+2021-12-21 17:34:23,524 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:34:23,640 | INFO | Authentication (password) successful!
+2021-12-21 17:34:23,700 | INFO | [chan 0] Opened sftp connection (server version 3)
+2021-12-21 17:34:58,388 | INFO | Connected (version 2.0, client OpenSSH_7.4)
+2021-12-21 17:34:58,477 | INFO | Authentication (password) successful!
+2021-12-21 17:34:58,542 | INFO | [chan 0] Opened sftp connection (server version 3)

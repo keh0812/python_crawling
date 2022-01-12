@@ -1,0 +1,33 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2308",
+        "s_cd_name": "통일연구원",
+        "menu_cd": "talks",
+        "menu_name": "KINU연구 - 주제별 - 남북관계 - 회담·합의",
+        "url": "https://www.kinu.or.kr/www/jsp/prg/api/dlL.jsp?menuIdx=260&category=9&thisPage=1&searchField=&searchText=",
+        "detail_tag": ".txtL a",
+        "identifier": "biblioId",
+        "event_date": ".txtL+ td"
+    },
+    "meta_data": {
+        "title_tag": "#cmsContent p",
+        "author_tag": "tr:nth-child(1) td",
+        "download_tag": "tr:nth-child(5) td a",
+        "write_date_tag": "",
+        "contents_tag": ".tab_con div",
+        "img_tag": ""
+    },
+    "event_data": {
+        "tab": {
+            "tab_tag": ".tab > li"
+        }
+    },
+    "paging_data": {
+        "paging_tag": "#pageNation_wrap a, #pageNation_wrap > div > span",
+        "next_tag": "a:nth-child(13)"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2302",
+        "s_cd_name": "과학기술정책연구원",
+        "menu_cd": "periodicals",
+        "menu_name": "발간물 - 정기간행물 - STEPI Insight",
+        "url": "https://www.stepi.re.kr/site/stepiko/report/List.do?pageIndex=1&cateCont=A0501&searchYear=&searchCondition=5&searchKeyword=%EB%B6%81%ED%95%9C&searchSort=PUBLIC_DT",
+        "detail_tag": ".title a",
+        "identifier": "reIdx",
+        "event_date": "td:nth-child(4)"
+    },
+    "meta_data": {
+        "title_tag": "#content b",
+        "author_tag": "li:nth-child(1) dl+ dl dd",
+        "download_tag": "dl:nth-child(2) dd a.btnFileDown.pdf",
+        "write_date_tag": "li:nth-child(2) dl:nth-child(1) dd",
+        "contents_tag": ".tabPage",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": "#header",
+        "tab": {
+            "tab_tag": ".tabBar a"
+        }
+    },
+    "paging_data": {
+        "paging_tag": ".paging a",
+        "next_tag": ".next"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2201",
+        "s_cd_name": "국가인권위원회",
+        "menu_cd": "report",
+        "menu_name": "활동 소식 - 보도자료 - 보도자료",
+        "url": "https://www.humanrights.go.kr/site/program/board/basicboard/list?boardtypeid=24&menuid=001004002001",
+        "detail_tag": ".txt a",
+        "identifier": "boardid",
+        "event_date": ".list_type_h1 .con ul li:nth-child(2)"
+    },
+    "meta_data": {
+        "title_tag": "#boardForm .txt",
+        "author_tag": ".detail li:nth-child(1)",
+        "download_tag": ".view_file a",
+        "write_date_tag": ".detail li:nth-child(2)",
+        "contents_tag": ".view_con",
+        "img_tag": ""
+    },
+    "event_data": {
+        "search": {
+            "search_input": "#searchword",
+            "search_keyword": "북한",
+            "search_btn": ".hidden+ input"
+        }
+    },
+    "paging_data": {
+        "paging_tag": ".mt4 span a",
+        "next_tag": ".next"
+    }
+}

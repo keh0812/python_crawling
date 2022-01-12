@@ -1,0 +1,34 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "304",
+        "m_cd_name": "연구기관",
+        "s_cd": "3401",
+        "s_cd_name": "Arms Control Association",
+        "menu_cd": "report",
+        "menu_name": "BLOGS - North Korea Denuclearization Digest",
+        "url": "https://www.armscontrol.org/blogs/north-korea-denuclearization-digest",
+        "detail_tag": "li span a",
+        "identifier": "",
+        "event_date": ".views-field.views-field-created > span"
+    },
+    "meta_data": {
+        "title_tag": "div.bluetext > div",
+        "author_tag": ".submitted-by",
+        "download_tag": "",
+        "write_date_tag": ".submitted-by",
+        "contents_tag": "#block-system-main .even p",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "slash_after2",
+        "advert": {
+            "advert_close": "#CybotCookiebotDialogBodyButtonAccept"
+        }
+    },
+    "paging_data" : {
+        "paging_tag": ".pager-item a , #block-system-main .first",
+        "next_tag": ".pager-next > a"
+    }
+}

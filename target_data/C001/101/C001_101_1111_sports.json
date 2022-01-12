@@ -1,0 +1,35 @@
+{
+    "common_data": {
+        "l_cd": "C001",
+        "l_cd_name": "북한",
+        "m_cd": "101",
+        "m_cd_name": "선전매체",
+        "s_cd": "1111",
+        "s_cd_name": "평양 타임즈",
+        "menu_cd": "sports",
+        "menu_name": "sports",
+        "url": "http://www.pyongyangtimes.com.kp/",
+        "detail_tag": "td:nth-child(2) p",
+        "identifier": "",
+        "event_date": "td:nth-child(3)"
+    },
+    "meta_data": {
+        "title_tag": "p:nth-child(1) > b",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "",
+        "contents_tag": "center table tbody tr td p",
+        "img_tag": "td > img"
+    },
+    "event_data": {
+        "menu": [
+            "/html/body/header/div[2]/nav/span[7]"
+        ],
+        "modal": {
+            "close_tag": ".modal-footer button",
+            "identifier": ""
+        },
+        "identifier": "javascript",
+        "javascript": "onclick"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "304",
+        "m_cd_name": "연구기관",
+        "s_cd": "3405",
+        "s_cd_name": "한미경제연구소(KEI)",
+        "menu_cd": "news",
+        "menu_name": "통합검색(North Korea) - Post Type: News",
+        "url": "https://keia.org/analysis/digital-library/?is_query_query=north+korea&is_query_publish_after=&is_query_publish_before=&is_query_post_type=news&is_query_tax_region=&is_query_tax_location=&is_query_tax_theme=&is_query_tax_contributor=&is_query_search_form=truelibrary/?is_query_query=north+korea&is_query_publish_after=&is_query_publish_before=&is_query_post_type=news&is_query_tax_region=&is_query_tax_location=&is_query_tax_theme=&is_query_tax_contributor=&is_query_search_form=true",
+        "detail_tag": "div:nth-child(3) div.cursor-pointer > a",
+        "identifier": "",
+        "event_date": ".text-gray-200.pb-3"
+    },
+    "meta_data": {
+        "title_tag": ".mb-0",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "div.cell.auto > div > h6",
+        "contents_tag": ".p-5",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "slash_after2"
+    },
+    "paging_data": {
+        "paging_tag": "",
+        "active_page_tag": ".current",
+        "next_tag": ".next"
+    }
+}

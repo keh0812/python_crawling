@@ -1,0 +1,31 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2202",
+        "s_cd_name": "국방부",
+        "menu_cd": "press",
+        "menu_name": "국방소식 - 언론보도 바로보기",
+        "url": "https://www.mnd.go.kr/user/boardList.action?boardId=I_42745&siteId=mnd&id=mnd_020600000000&titleId=&parent=&page=1&listType=&column=title&search=%EB%B6%81%ED%95%9C",
+        "detail_tag": ".title a",
+        "identifier": "boardSeq",
+        "event_date": ".post_info:nth-child(3) dd"
+    },
+    "meta_data": {
+        "title_tag": ".wrap_title .title",
+        "author_tag": ".first dd",
+        "download_tag": "#content .first a",
+        "write_date_tag": ".floatL+ .floatL dd",
+        "contents_tag": ".post_content",
+        "img_tag": ".txc-image"
+    },
+    "event_data": {
+        "headless": "#nav_header_fix"
+    },
+    "paging_data": {
+        "paging_tag": ".pager a",
+        "next_tag": ".btnNext a"
+    }
+}

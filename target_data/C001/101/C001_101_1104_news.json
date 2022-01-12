@@ -1,0 +1,25 @@
+{
+    "common_data": {
+        "l_cd": "C001",
+        "l_cd_name": "북한",
+        "m_cd": "101",
+        "m_cd_name": "선전매체",
+        "s_cd": "1104",
+        "s_cd_name": "메아리",
+        "menu_cd": "news",
+        "menu_name": "아리랑통신 전체기사",
+        "url": "http://www.arirangmeari.com/index.php?t=news",
+        "detail_tag": ".title-link",
+        "identifier": "no",
+        "event_date": "td:nth-child(7)"
+    },
+    "meta_data": {
+        "title_tag": "#contents-body .title",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "#contents-head .pull-left spana",
+        "contents_tag": ".contents p",
+        "img_tag": ".contents img"
+    },
+    "event_data": {}
+}

@@ -1,0 +1,29 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "201",
+        "m_cd_name": "통일부",
+        "s_cd": "2105",
+        "s_cd_name": "북한자료센터",
+        "menu_cd": "newspaper",
+        "menu_name": "자료실-기사색인검색-신문",
+        "url": "https://unibook.unikorea.go.kr/material/list?materialScope=NART&configCodes=ART&fields=PUBLISHER&keywords=%EB%A1%9C%EB%8F%99%EC%8B%A0%EB%AC%B8%EC%82%AC&conjunctions=OR&fields=PUBLISHER&keywords=%EB%AF%BC%EC%A3%BC%EC%A1%B0%EC%84%A0%ED%8E%B8%EC%A7%91%EC%9C%84%EC%9B%90%ED%9A%8C&conjunctions=OR&fields=PUBLISHER&keywords=%EB%AC%B8%ED%95%99%EC%8B%A0%EB%AC%B8%EC%82%AC&conjunctions=OR&fields=PUBLISHER&keywords=%ED%8F%89%EC%96%91%ED%83%80%EC%9E%84%EC%A6%88&page=105368",
+        "detail_tag": "#sublist a",
+        "identifier": "uid",
+        "event_date": "dl+ dl dd"
+    },
+    "meta_data": {
+        "title_tag": ".biblio_info > div > dl:nth-child(1) > dd",
+        "author_tag": ".biblio_info > div > dl:nth-child(4) > dd",
+        "download_tag": "",
+        "write_date_tag": ".biblio_info > div > dl:nth-child(5) > dd",
+        "contents_tag": "",
+        "img_tag": ""
+    },
+    "event_data": {},
+    "paging_data": {
+        "paging_tag": ".pc-page a",
+        "next_tag": ".next"
+    }
+}

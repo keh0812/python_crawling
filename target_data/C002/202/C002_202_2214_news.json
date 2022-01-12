@@ -1,0 +1,39 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2214",
+        "s_cd_name": "주러한국대사관",
+        "menu_cd": "news",
+        "menu_name": "뉴스 - 최신뉴스뉴스 - 새소식",
+        "url": "https://overseas.mofa.go.kr/ru-ko/brd/m_7335/list.do",
+        "detail_tag": ".type3 a",
+        "identifier": "seq",
+        "event_date": "td:nth-child(5)"
+    },
+    "meta_data": {
+        "title_tag": ".bo_head h2",
+        "author_tag": "#contents dd:nth-child(2)",
+        "download_tag": "",
+        "write_date_tag": "#contents dd~ dd",
+        "contents_tag": ".bo_con",
+        "img_tag": "#contents img"
+    },
+    "event_data": {
+        "menu": [
+            "//*[@id='srchTp']",
+            "//*[@id='srchTp']/option[2]"
+        ],
+        "search": {
+            "search_input": "#srchWord",
+            "search_keyword": "북한",
+            "search_btn": ".inp_sch button"
+        }
+    },
+    "paging_data": {
+        "paging_tag": "#contents li a",
+        "next_tag": ".next_page"
+    }
+}

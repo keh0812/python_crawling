@@ -1,0 +1,25 @@
+{
+    "common_data": {
+        "l_cd": "C001",
+        "l_cd_name": "북한",
+        "m_cd": "101",
+        "m_cd_name": "선전매체",
+        "s_cd": "1110",
+        "s_cd_name": "통일의 메아리",
+        "menu_cd": "bodo",
+        "menu_name": "보도",
+        "url": "http://tongilvoice.com/index.php?ptype=bodo",
+        "detail_tag": "div.gisa_title > div.content_cell_title > a.title",
+        "identifier": "no",
+        "event_date": ".gisa_date"
+    },
+    "meta_data": {
+        "title_tag": ".right_photo_title",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "#view_gisa_top span",
+        "contents_tag": "#view_gisa",
+        "img_tag": ""
+    },
+    "event_data": {}
+}

@@ -1,0 +1,39 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2209",
+        "s_cd_name": "민주평화통일자문회의",
+        "menu_cd": "release",
+        "menu_name": "통합검색(북한)-보도자료",
+        "url": "https://www.nuac.go.kr/search/front/Search.jsp",
+        "detail_tag": ".C_body > ul > dl > dt > a",
+        "identifier": "nttId",
+        "event_date": "a+ span"
+    },
+    "meta_data": {
+        "title_tag": "#board_view > h2 > p",
+        "author_tag": ".bdr_top1 > li:nth-child(2) > span",
+        "download_tag": "#board_view > dl > dd > ul > li > a",
+        "write_date_tag": ".bdr_top1 > li:nth-child(4) > span",
+        "contents_tag": ".contentHtml",
+        "img_tag": ".contentHtml > p > img"
+    },
+    "event_data": {
+        "menu": [
+            "//*[@id='Smenu']/ul/li[7]/a"
+        ],
+        "search": {
+            "search_input": "#qt",
+            "search_keyword": "북한",
+            "search_btn": "#header > div > div:nth-child(4) > input[type=button]"
+        }
+    },
+    "paging_data": {
+        "paging_tag": ".job_num a",
+        "active_page_tag": "",
+        "next_tag": ".next a"
+    }
+}

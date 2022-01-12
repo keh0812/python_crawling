@@ -1,0 +1,31 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2302",
+        "s_cd_name": "과학기술정책연구원",
+        "menu_cd": "plan",
+        "menu_name": "연구활동 - 연구산업 - 연구계획",
+        "url": "https://www.stepi.re.kr/site/stepiko/ex/bbs/List.do?cbIdx=1200&pageIndex=1&bcIdx=37312&mode=&searchYear=&tgtTypeCd=ALL&searchKey=%EB%B6%81%ED%95%9C",
+        "detail_tag": "td.title a",
+        "identifier": "bcIdx",
+        "event_date": ".title+ td"
+    },
+    "meta_data": {
+        "title_tag": "h4 b",
+        "author_tag": ".info span:nth-child(1)",
+        "download_tag": "",
+        "write_date_tag": "span+ span",
+        "contents_tag": ".viewCon",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": "#header"
+    },
+    "paging_data": {
+        "paging_tag": ".paging a",
+        "next_tag": ".next"
+    }
+}

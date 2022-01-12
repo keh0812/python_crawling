@@ -1,0 +1,31 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2301",
+        "s_cd_name": "경남대학교 극동문제연구소",
+        "menu_cd": "ifes",
+        "menu_name": "연구-연구자료",
+        "url": "https://ifes.kyungnam.ac.kr/ifes/6578/subview.do?enc=Zm5jdDF8QEB8JTJGbWF0ZXJpYWwlMkZpZmVzJTJGbGlzdC5kbyUzRnBhZ2UlM0QxJTI2Y3RnclR5cGUlM0QwJTI2c3JjaENvbHVtbiUzRHNqJTI2c3JjaFdvcmQlM0QlRUIlQjYlODElRUQlOTUlOUMlMjY%3D#none",
+        "detail_tag": ".title strong",
+        "identifier": "enc",
+        "event_date": "dl~ dl+ dl dd"
+    },
+    "meta_data": {
+        "title_tag": ".view-title",
+        "author_tag": "tr:nth-child(1) td",
+        "download_tag": ".con-table img",
+        "write_date_tag": "tr:nth-child(3) td",
+        "contents_tag": "#_material p",
+        "img_tag": ".view-inner img"
+    },
+    "event_data": {
+        "identifier": "kyungnam"
+    },
+    "paging_data": {
+        "paging_tag": "._inner strong , ._inner li a",
+        "next_tag": "._next"
+    }
+}

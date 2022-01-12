@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2313",
+        "s_cd_name": "한국은행",
+        "menu_cd": "researchdata",
+        "menu_name": "조사·연구 - 연구자료 - 북한경제자료 - 북한관련조사연구자료",
+        "url": "http://www.bok.or.kr/portal/bbs/P0002240/list.do?menuNo=200092",
+        "detail_tag": ".titlesub",
+        "identifier": "nttId",
+        "event_date": ".date"
+    },
+    "meta_data": {
+        "title_tag": ".subject",
+        "author_tag": ".ti-user",
+        "download_tag": "#board a:nth-child(1)",
+        "write_date_tag": ".date",
+        "contents_tag": ".dbData",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": ".global"
+    },
+    "paging_data": {
+        "paging_tag": ".pagination-centered a",
+        "next_tag": ".next a",
+        "active_page_tag": ".paginationSet .active"
+    }
+}

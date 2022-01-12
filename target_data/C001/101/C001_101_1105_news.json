@@ -1,0 +1,27 @@
+{
+    "common_data": {
+        "l_cd": "C001",
+        "l_cd_name": "북한",
+        "m_cd": "101",
+        "m_cd_name": "선전매체",
+        "s_cd": "1105",
+        "s_cd_name": "우리민족강당",
+        "menu_cd": "news",
+        "menu_name": "새소식",
+        "url": "https://ournation-school.com/gisa/category/3#pos",
+        "detail_tag": ".table-hover a",
+        "identifier": "",
+        "event_date": ".table-hover .text-center+ td"
+    },
+    "meta_data": {
+        "title_tag": ".title",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "",
+        "contents_tag": ".fadeInDown p+ p",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "slash_after1"
+    }
+}

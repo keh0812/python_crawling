@@ -1,0 +1,1292 @@
+2021-12-10 09:53:18,274 | INFO | crawling | crawling_main() | crawling | C002/202/2202/army | 크롤링 시작
+2021-12-10 09:53:18,274 | INFO | crawling | crawling_main() | crawling | C002/202/2202/army | 크롤링 시작
+2021-12-10 09:53:18,304 | INFO | crawling | crawling_main() | crawling | C002/202/2202/army | 1 페이지
+2021-12-10 09:53:18,304 | INFO | crawling | crawling_main() | crawling | C002/202/2202/army | 1 페이지
+2021-12-10 09:53:23,343 | INFO | crawling | crawling_main() | crawling | C002/202/2202/army | 크롤링 대상 : 8 건
+2021-12-10 09:53:23,343 | INFO | crawling | crawling_main() | crawling | C002/202/2202/army | 크롤링 대상 : 8 건
+2021-12-10 09:53:27,429 | INFO | crawling | crawling_main() | crawling | C002/202/2202/army | 크롤링 성공 : 0 건
+2021-12-10 09:53:27,429 | INFO | crawling | crawling_main() | crawling | C002/202/2202/army | 크롤링 성공 : 0 건
+2021-12-10 09:53:35,242 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FFF78F8348>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/80272fb453a2095f5b2393bdd399379b/window
+2021-12-10 09:53:35,242 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FFF78F8348>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/80272fb453a2095f5b2393bdd399379b/window
+2021-12-10 09:53:37,275 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FFF77CFA88>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/80272fb453a2095f5b2393bdd399379b/window
+2021-12-10 09:53:37,275 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FFF77CFA88>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/80272fb453a2095f5b2393bdd399379b/window
+2021-12-10 09:53:39,323 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FFF77D7108>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/80272fb453a2095f5b2393bdd399379b/window
+2021-12-10 09:53:39,323 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FFF77D7108>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/80272fb453a2095f5b2393bdd399379b/window
+2021-12-10 09:54:48,543 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 09:54:48,543 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 09:54:48,570 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 09:54:48,570 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 09:54:53,597 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 09:54:53,597 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 09:56:11,016 | ERROR | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | Exception time data '2021-12-01 11:00' does not match format '%Y%m%d%H%M%S'
+2021-12-10 09:56:11,016 | ERROR | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | Exception time data '2021-12-01 11:00' does not match format '%Y%m%d%H%M%S'
+2021-12-10 10:17:27,466 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 시작
+2021-12-10 10:17:27,466 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 시작
+2021-12-10 10:17:27,509 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 1 페이지
+2021-12-10 10:17:27,509 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 1 페이지
+2021-12-10 10:17:27,517 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:17:27,517 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:04,230 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 5 건
+2021-12-10 10:27:04,230 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 5 건
+2021-12-10 10:27:09,261 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 2 페이지
+2021-12-10 10:27:09,261 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 2 페이지
+2021-12-10 10:27:09,269 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:09,269 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:09,300 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:09,300 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:14,082 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 3 페이지
+2021-12-10 10:27:14,082 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 3 페이지
+2021-12-10 10:27:14,091 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:14,091 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:14,121 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:14,121 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:19,132 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 4 페이지
+2021-12-10 10:27:19,132 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 4 페이지
+2021-12-10 10:27:19,142 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:19,142 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:19,176 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:19,176 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:24,177 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 5 페이지
+2021-12-10 10:27:24,177 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 5 페이지
+2021-12-10 10:27:24,184 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:24,184 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:24,215 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:24,215 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:29,242 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 6 페이지
+2021-12-10 10:27:29,242 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 6 페이지
+2021-12-10 10:27:29,250 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:29,250 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:29,281 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:29,281 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:34,215 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 7 페이지
+2021-12-10 10:27:34,215 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 7 페이지
+2021-12-10 10:27:34,222 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:34,222 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:34,249 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:34,249 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:39,024 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 8 페이지
+2021-12-10 10:27:39,024 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 8 페이지
+2021-12-10 10:27:39,035 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:39,035 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:39,065 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:39,065 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:44,285 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 9 페이지
+2021-12-10 10:27:44,285 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 9 페이지
+2021-12-10 10:27:44,291 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:44,291 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:27:44,320 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:44,320 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:27:48,005 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None))': /session/90611d5a471a3e8b55bb591160fc81c1/window
+2021-12-10 10:27:48,005 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None))': /session/90611d5a471a3e8b55bb591160fc81c1/window
+2021-12-10 10:27:55,923 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:27:55,923 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:28:02,100 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:28:02,100 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:28:07,131 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:28:07,131 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:28:13,425 | ERROR | crawling | crawling_main() | crawling | C002/202/2209/news | Exception 'nttId'
+2021-12-10 10:28:13,425 | ERROR | crawling | crawling_main() | crawling | C002/202/2209/news | Exception 'nttId'
+2021-12-10 10:28:29,661 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 10:28:29,661 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 10:28:35,856 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 10:28:35,856 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 10:28:40,888 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 10:28:40,888 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 10:28:47,150 | ERROR | crawling | crawling_main() | crawling | C002/202/2209/release | Exception 'nttId'
+2021-12-10 10:28:47,150 | ERROR | crawling | crawling_main() | crawling | C002/202/2209/release | Exception 'nttId'
+2021-12-10 10:35:38,916 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:35:38,916 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:35:45,089 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:35:45,089 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:35:50,111 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:35:50,111 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:35:56,402 | ERROR | crawling | crawling_main() | crawling | C002/202/2209/news | Exception 'nttId'
+2021-12-10 10:35:56,402 | ERROR | crawling | crawling_main() | crawling | C002/202/2209/news | Exception 'nttId'
+2021-12-10 10:36:12,669 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 10:36:12,669 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 10:36:18,860 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 10:36:18,860 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 10:36:23,901 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 10:36:23,901 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 10:36:30,176 | ERROR | crawling | crawling_main() | crawling | C002/202/2209/release | Exception 'nttId'
+2021-12-10 10:36:30,176 | ERROR | crawling | crawling_main() | crawling | C002/202/2209/release | Exception 'nttId'
+2021-12-10 10:37:17,860 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:37:17,860 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:37:24,050 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:37:24,050 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:37:29,075 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:37:29,075 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:37:54,064 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 시작
+2021-12-10 10:37:54,064 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 시작
+2021-12-10 10:37:54,363 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 1 페이지
+2021-12-10 10:37:54,363 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 1 페이지
+2021-12-10 10:37:54,375 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:37:54,375 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:39:42,891 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:39:42,891 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:39:49,120 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:39:49,120 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:39:54,146 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:39:54,146 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:45:40,912 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:45:40,912 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:45:47,103 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:45:47,103 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:45:52,118 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:45:52,118 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:46:20,523 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:46:20,523 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:46:26,728 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:46:26,728 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:46:31,755 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:46:31,755 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:47:32,657 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 5 건
+2021-12-10 10:47:32,657 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 5 건
+2021-12-10 10:47:36,985 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 2 페이지
+2021-12-10 10:47:36,985 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 2 페이지
+2021-12-10 10:47:36,994 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:47:36,994 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:47:37,021 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:47:37,021 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 성공 : 0 건
+2021-12-10 10:47:39,892 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC9C563DC8>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/3cc6619ca5cdc5142e4b0baff49b354b/window
+2021-12-10 10:47:39,892 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC9C563DC8>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다')': /session/3cc6619ca5cdc5142e4b0baff49b354b/window
+2021-12-10 10:48:17,835 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 시작
+2021-12-10 10:48:17,835 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 시작
+2021-12-10 10:48:18,082 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 1 페이지
+2021-12-10 10:48:18,082 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 1 페이지
+2021-12-10 10:48:18,091 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:48:18,091 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:48:52,459 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 시작
+2021-12-10 10:48:52,459 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 시작
+2021-12-10 10:48:52,690 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 1 페이지
+2021-12-10 10:48:52,690 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 1 페이지
+2021-12-10 10:48:52,701 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:48:52,701 | INFO | crawling | crawling_main() | crawling | C003/301/3101/news | 크롤링 대상 : 10 건
+2021-12-10 10:56:34,428 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:56:34,428 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 10:56:40,631 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:56:40,631 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 10:56:45,659 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:56:45,659 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 10:57:11,702 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 10:57:11,702 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 10:57:11,728 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 10:57:11,728 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 10:57:16,755 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 10:57:16,755 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 10:57:57,581 | ERROR | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | Exception [WinError 183] 파일이 이미 있으므로 만들 수 없습니다: 'C:/mou/datalake/nams\\C002\\202\\2203\\pressrelease\\2021\\12\\10\\95086270\\doc\\211202(조간)_동아시아철도공동체 국제포럼 개최(철도정책과).hwp' -> 'C:/mou/datalake/nams\\C002\\202\\2203\\pressrelease\\2021\\12\\10\\95086270\\doc\\95086270_1.hwp'
+2021-12-10 10:57:57,581 | ERROR | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | Exception [WinError 183] 파일이 이미 있으므로 만들 수 없습니다: 'C:/mou/datalake/nams\\C002\\202\\2203\\pressrelease\\2021\\12\\10\\95086270\\doc\\211202(조간)_동아시아철도공동체 국제포럼 개최(철도정책과).hwp' -> 'C:/mou/datalake/nams\\C002\\202\\2203\\pressrelease\\2021\\12\\10\\95086270\\doc\\95086270_1.hwp'
+2021-12-10 10:58:48,671 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 10:58:48,671 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 10:58:48,697 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 10:58:48,697 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 10:58:53,716 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 10:58:53,716 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 11:00:11,005 | ERROR | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | Exception time data '2021-12-01 11:00' does not match format '%Y%m%d%H%M%S'
+2021-12-10 11:00:11,005 | ERROR | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | Exception time data '2021-12-01 11:00' does not match format '%Y%m%d%H%M%S'
+2021-12-10 11:14:05,721 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/alltrends | Exception 'paging_data'
+2021-12-10 11:14:05,721 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/alltrends | Exception 'paging_data'
+2021-12-10 11:15:45,255 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 11:15:45,255 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 11:15:49,453 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 11:15:49,453 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 11:15:49,466 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 11:15:49,466 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:48:58,920 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 12:48:58,920 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 12:49:03,099 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 12:49:03,099 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 12:49:03,116 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:49:03,116 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:51:57,632 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 7 건
+2021-12-10 12:51:57,632 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 7 건
+2021-12-10 12:52:07,577 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 2 페이지
+2021-12-10 12:52:07,577 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 2 페이지
+2021-12-10 12:52:07,587 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:52:07,587 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:52:13,049 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 12:52:13,049 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 12:52:13,077 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 12:52:13,077 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 12:52:18,096 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 12:52:18,096 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 12:52:30,083 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 12:52:30,083 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 12:52:36,268 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 12:52:36,268 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 12:52:41,295 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 12:52:41,295 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 12:53:35,174 | ERROR | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | Exception time data '2021-12-01 11:00' does not match format '%Y%m%d%H%M%S'
+2021-12-10 12:53:35,174 | ERROR | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | Exception time data '2021-12-01 11:00' does not match format '%Y%m%d%H%M%S'
+2021-12-10 12:54:10,543 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 5 건
+2021-12-10 12:54:10,543 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 5 건
+2021-12-10 12:54:15,652 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 3 페이지
+2021-12-10 12:54:15,652 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 3 페이지
+2021-12-10 12:54:15,667 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:15,667 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:15,691 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:15,691 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:20,808 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 4 페이지
+2021-12-10 12:54:20,808 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 4 페이지
+2021-12-10 12:54:20,826 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:20,826 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:20,850 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:20,850 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:25,925 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 5 페이지
+2021-12-10 12:54:25,925 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 5 페이지
+2021-12-10 12:54:25,943 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:25,943 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:25,971 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:25,971 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:31,033 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 6 페이지
+2021-12-10 12:54:31,033 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 6 페이지
+2021-12-10 12:54:31,040 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:31,040 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:31,065 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:31,065 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:36,137 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 7 페이지
+2021-12-10 12:54:36,137 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 7 페이지
+2021-12-10 12:54:36,145 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:36,145 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:36,176 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:36,176 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:41,261 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 8 페이지
+2021-12-10 12:54:41,261 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 8 페이지
+2021-12-10 12:54:41,271 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:41,271 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:41,303 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:41,303 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:46,376 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 9 페이지
+2021-12-10 12:54:46,376 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 9 페이지
+2021-12-10 12:54:46,385 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:46,385 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:46,410 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:46,410 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:51,464 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 10 페이지
+2021-12-10 12:54:51,464 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 10 페이지
+2021-12-10 12:54:51,472 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:51,472 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:51,500 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:51,500 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:56,609 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 11 페이지
+2021-12-10 12:54:56,609 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 11 페이지
+2021-12-10 12:54:56,615 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:56,615 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:54:56,638 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:54:56,638 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:01,665 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 12 페이지
+2021-12-10 12:55:01,665 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 12 페이지
+2021-12-10 12:55:01,673 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:01,673 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:01,705 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:01,705 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:06,803 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 13 페이지
+2021-12-10 12:55:06,803 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 13 페이지
+2021-12-10 12:55:06,812 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:06,812 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:06,844 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:06,844 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:11,955 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 14 페이지
+2021-12-10 12:55:11,955 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 14 페이지
+2021-12-10 12:55:11,963 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:11,963 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:11,987 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:11,987 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:17,161 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 15 페이지
+2021-12-10 12:55:17,161 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 15 페이지
+2021-12-10 12:55:17,169 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:17,169 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:17,198 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:17,198 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:22,297 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 16 페이지
+2021-12-10 12:55:22,297 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 16 페이지
+2021-12-10 12:55:22,307 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:22,307 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:22,331 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:22,331 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:27,435 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 17 페이지
+2021-12-10 12:55:27,435 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 17 페이지
+2021-12-10 12:55:27,450 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:27,450 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:27,477 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:27,477 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:32,574 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 18 페이지
+2021-12-10 12:55:32,574 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 18 페이지
+2021-12-10 12:55:32,591 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:32,591 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:32,613 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:32,613 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:37,725 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 19 페이지
+2021-12-10 12:55:37,725 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 19 페이지
+2021-12-10 12:55:37,732 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:37,732 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:37,753 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:37,753 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:42,816 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 20 페이지
+2021-12-10 12:55:42,816 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 20 페이지
+2021-12-10 12:55:42,824 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:42,824 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:42,848 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:42,848 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:47,961 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 21 페이지
+2021-12-10 12:55:47,961 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 21 페이지
+2021-12-10 12:55:47,968 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:47,968 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 12:55:47,990 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:55:47,990 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 12:56:10,245 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 12:56:10,245 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 12:56:10,268 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 12:56:10,268 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 12:56:13,992 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 시작
+2021-12-10 12:56:13,992 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 시작
+2021-12-10 12:56:15,285 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 12:56:15,285 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 12:56:18,193 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 1 페이지
+2021-12-10 12:56:18,193 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 1 페이지
+2021-12-10 12:56:18,204 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:56:18,204 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:56:42,971 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 1 건
+2021-12-10 12:56:42,971 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 1 건
+2021-12-10 12:56:47,619 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 2 페이지
+2021-12-10 12:56:47,619 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 2 페이지
+2021-12-10 12:56:47,628 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:56:47,628 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:56:47,653 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:56:47,653 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:56:52,308 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 3 페이지
+2021-12-10 12:56:52,308 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 3 페이지
+2021-12-10 12:56:52,320 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:56:52,320 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:56:52,343 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:56:52,343 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:56:57,060 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 4 페이지
+2021-12-10 12:56:57,060 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 4 페이지
+2021-12-10 12:56:57,072 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:56:57,072 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:56:57,103 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:56:57,103 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:01,748 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 5 페이지
+2021-12-10 12:57:01,748 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 5 페이지
+2021-12-10 12:57:01,755 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:01,755 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:01,782 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:01,782 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:06,406 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 6 페이지
+2021-12-10 12:57:06,406 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 6 페이지
+2021-12-10 12:57:06,412 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:06,412 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:06,437 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:06,437 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:11,099 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 7 페이지
+2021-12-10 12:57:11,099 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 7 페이지
+2021-12-10 12:57:11,107 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:11,107 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:11,136 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:11,136 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:15,803 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 8 페이지
+2021-12-10 12:57:15,803 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 8 페이지
+2021-12-10 12:57:15,812 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:15,812 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:15,839 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:15,839 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:20,586 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 9 페이지
+2021-12-10 12:57:20,586 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 9 페이지
+2021-12-10 12:57:20,603 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:20,603 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:20,629 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:20,629 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:25,248 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 10 페이지
+2021-12-10 12:57:25,248 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 10 페이지
+2021-12-10 12:57:25,256 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:25,256 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:25,282 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:25,282 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:29,979 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 11 페이지
+2021-12-10 12:57:29,979 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 11 페이지
+2021-12-10 12:57:29,984 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:29,984 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:30,007 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:30,007 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:32,396 | ERROR | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | Exception time data '2021-12-01 11:00' does not match format '%Y%m%d%H%M%S'
+2021-12-10 12:57:32,396 | ERROR | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | Exception time data '2021-12-01 11:00' does not match format '%Y%m%d%H%M%S'
+2021-12-10 12:57:34,662 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 12 페이지
+2021-12-10 12:57:34,662 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 12 페이지
+2021-12-10 12:57:34,678 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:34,678 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 12:57:34,709 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:34,709 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 12:57:44,063 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 12:57:44,063 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 12:57:50,244 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 12:57:50,244 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 12:57:55,271 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 12:57:55,271 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:04:24,326 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:04:24,326 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:04:30,538 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:04:30,538 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:04:35,559 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:04:35,559 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:05:03,972 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 13:05:03,972 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 13:05:03,999 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 13:05:03,999 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 13:05:09,023 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 13:05:09,023 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 13:10:07,710 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 시작
+2021-12-10 13:10:07,710 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 시작
+2021-12-10 13:10:11,904 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 1 페이지
+2021-12-10 13:10:11,904 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 1 페이지
+2021-12-10 13:10:11,926 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:10:11,926 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:10:36,686 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 1 건
+2021-12-10 13:10:36,686 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 1 건
+2021-12-10 13:10:41,329 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 2 페이지
+2021-12-10 13:10:41,329 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 2 페이지
+2021-12-10 13:10:41,346 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:10:41,346 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:10:41,369 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:10:41,369 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:10:45,995 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 3 페이지
+2021-12-10 13:10:45,995 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 3 페이지
+2021-12-10 13:10:46,022 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:10:46,022 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:10:46,043 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:10:46,043 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:10:50,660 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 4 페이지
+2021-12-10 13:10:50,660 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 4 페이지
+2021-12-10 13:10:50,671 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:10:50,671 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:10:50,695 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:10:50,695 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:10:55,388 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 5 페이지
+2021-12-10 13:10:55,388 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 5 페이지
+2021-12-10 13:10:55,409 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:10:55,409 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:10:55,434 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:10:55,434 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:00,106 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 6 페이지
+2021-12-10 13:11:00,106 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 6 페이지
+2021-12-10 13:11:00,117 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:00,117 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:00,141 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:00,141 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:04,806 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 7 페이지
+2021-12-10 13:11:04,806 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 7 페이지
+2021-12-10 13:11:04,821 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:04,821 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:04,848 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:04,848 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:09,498 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 8 페이지
+2021-12-10 13:11:09,498 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 8 페이지
+2021-12-10 13:11:09,512 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:09,512 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:09,545 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:09,545 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:14,162 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 9 페이지
+2021-12-10 13:11:14,162 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 9 페이지
+2021-12-10 13:11:14,194 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:14,194 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:14,213 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:14,213 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:18,827 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 10 페이지
+2021-12-10 13:11:18,827 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 10 페이지
+2021-12-10 13:11:18,838 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:18,838 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:18,864 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:18,864 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:23,469 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 11 페이지
+2021-12-10 13:11:23,469 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 11 페이지
+2021-12-10 13:11:23,479 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:23,479 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:23,504 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:23,504 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:28,054 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 12 페이지
+2021-12-10 13:11:28,054 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 12 페이지
+2021-12-10 13:11:28,071 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:28,071 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:28,095 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:28,095 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:32,739 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 13 페이지
+2021-12-10 13:11:32,739 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 13 페이지
+2021-12-10 13:11:32,752 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:32,752 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:32,773 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:32,773 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:37,399 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 14 페이지
+2021-12-10 13:11:37,399 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 14 페이지
+2021-12-10 13:11:37,411 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:37,411 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:37,437 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:37,437 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:42,076 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 15 페이지
+2021-12-10 13:11:42,076 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 15 페이지
+2021-12-10 13:11:42,093 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:42,093 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:42,119 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:42,119 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:46,763 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 16 페이지
+2021-12-10 13:11:46,763 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 16 페이지
+2021-12-10 13:11:46,774 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:46,774 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:46,803 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:46,803 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:51,442 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 17 페이지
+2021-12-10 13:11:51,442 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 17 페이지
+2021-12-10 13:11:51,454 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:51,454 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:51,478 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:51,478 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:56,098 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 18 페이지
+2021-12-10 13:11:56,098 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 18 페이지
+2021-12-10 13:11:56,115 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:56,115 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:11:56,145 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:11:56,145 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:01,329 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 19 페이지
+2021-12-10 13:12:01,329 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 19 페이지
+2021-12-10 13:12:01,353 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:01,353 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:01,379 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:01,379 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:06,114 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 20 페이지
+2021-12-10 13:12:06,114 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 20 페이지
+2021-12-10 13:12:06,129 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:06,129 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:06,161 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:06,161 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:10,796 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 21 페이지
+2021-12-10 13:12:10,796 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 21 페이지
+2021-12-10 13:12:10,812 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:10,812 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:10,836 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:10,836 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:15,418 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 22 페이지
+2021-12-10 13:12:15,418 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 22 페이지
+2021-12-10 13:12:15,436 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:15,436 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:15,460 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:15,460 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:20,281 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 23 페이지
+2021-12-10 13:12:20,281 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 23 페이지
+2021-12-10 13:12:20,298 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:20,298 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:20,322 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:20,322 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:24,945 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 24 페이지
+2021-12-10 13:12:24,945 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 24 페이지
+2021-12-10 13:12:24,964 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:24,964 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:24,999 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:24,999 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:29,657 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 25 페이지
+2021-12-10 13:12:29,657 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 25 페이지
+2021-12-10 13:12:29,668 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:29,668 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:29,696 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:29,696 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:34,314 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 26 페이지
+2021-12-10 13:12:34,314 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 26 페이지
+2021-12-10 13:12:34,328 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:34,328 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:34,351 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:34,351 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:38,977 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 27 페이지
+2021-12-10 13:12:38,977 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 27 페이지
+2021-12-10 13:12:38,989 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:38,989 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:39,012 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:39,012 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:43,758 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 28 페이지
+2021-12-10 13:12:43,758 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 28 페이지
+2021-12-10 13:12:43,773 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:43,773 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:43,800 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:43,800 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:48,429 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 29 페이지
+2021-12-10 13:12:48,429 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 29 페이지
+2021-12-10 13:12:48,442 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:48,442 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:48,469 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:48,469 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:53,118 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 30 페이지
+2021-12-10 13:12:53,118 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 30 페이지
+2021-12-10 13:12:53,130 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:53,130 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:53,153 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:53,153 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:57,796 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 31 페이지
+2021-12-10 13:12:57,796 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 31 페이지
+2021-12-10 13:12:57,808 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:57,808 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:12:57,834 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:12:57,834 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:02,659 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 32 페이지
+2021-12-10 13:13:02,659 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 32 페이지
+2021-12-10 13:13:02,669 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:02,669 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:02,691 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:02,691 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:07,455 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 33 페이지
+2021-12-10 13:13:07,455 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 33 페이지
+2021-12-10 13:13:07,473 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:07,473 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:07,497 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:07,497 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:12,374 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 34 페이지
+2021-12-10 13:13:12,374 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 34 페이지
+2021-12-10 13:13:12,390 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:12,390 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:12,412 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:12,412 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:17,102 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 35 페이지
+2021-12-10 13:13:17,102 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 35 페이지
+2021-12-10 13:13:17,114 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:17,114 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:17,143 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:17,143 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:21,852 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 36 페이지
+2021-12-10 13:13:21,852 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 36 페이지
+2021-12-10 13:13:21,866 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:21,866 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:21,891 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:21,891 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:26,577 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 37 페이지
+2021-12-10 13:13:26,577 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 37 페이지
+2021-12-10 13:13:26,589 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:26,589 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:26,615 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:26,615 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:31,313 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 38 페이지
+2021-12-10 13:13:31,313 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 38 페이지
+2021-12-10 13:13:31,360 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:31,360 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:31,396 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:31,396 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:36,057 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 39 페이지
+2021-12-10 13:13:36,057 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 39 페이지
+2021-12-10 13:13:36,074 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:36,074 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:36,096 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:36,096 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:40,951 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 40 페이지
+2021-12-10 13:13:40,951 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 40 페이지
+2021-12-10 13:13:40,970 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:40,970 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:40,996 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:40,996 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:45,828 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 41 페이지
+2021-12-10 13:13:45,828 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 41 페이지
+2021-12-10 13:13:45,839 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:45,839 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 13:13:45,865 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:13:45,865 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 13:14:15,853 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 13:14:15,853 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 13:14:15,880 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 13:14:15,880 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 13:14:20,906 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 13:14:20,906 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 13:17:26,545 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 13:17:26,545 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 13:17:26,571 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 13:17:26,571 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 13:17:31,599 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 13:17:31,599 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 13:18:36,522 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:18:36,522 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:18:42,695 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:18:42,695 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:18:47,720 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:18:47,720 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:19:21,514 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 13:19:21,514 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 13:19:21,540 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 13:19:21,540 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 13:19:26,562 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 13:19:26,562 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 13:21:56,395 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 성공 : 2 건
+2021-12-10 13:21:56,395 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 성공 : 2 건
+2021-12-10 13:25:36,913 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 13:25:36,913 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 시작
+2021-12-10 13:25:36,944 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 13:25:36,944 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 2 페이지
+2021-12-10 13:25:41,967 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 13:25:41,967 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 대상 : 10 건
+2021-12-10 13:27:10,229 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:27:10,229 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:27:16,433 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:27:16,433 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:27:21,459 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:27:21,459 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:28:12,093 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 성공 : 2 건
+2021-12-10 13:28:12,093 | INFO | crawling | crawling_main() | crawling | C002/202/2203/pressrelease | 크롤링 성공 : 2 건
+2021-12-10 13:31:26,467 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:31:26,467 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:31:32,655 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:31:32,655 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:31:37,669 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:31:37,669 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:36:34,317 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:36:34,317 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:36:40,487 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:36:40,487 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:36:45,511 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:36:45,511 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:39:56,142 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:39:56,142 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:40:02,355 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:40:02,355 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:40:07,393 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:40:07,393 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:42:48,696 | ERROR | crawling | crawling_main() | crawling | C003/303/3301/news | Exception 'paging_data'
+2021-12-10 13:42:48,696 | ERROR | crawling | crawling_main() | crawling | C003/303/3301/news | Exception 'paging_data'
+2021-12-10 13:53:01,620 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 시작
+2021-12-10 13:53:01,620 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 시작
+2021-12-10 13:53:01,623 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 1 페이지
+2021-12-10 13:53:01,623 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 1 페이지
+2021-12-10 13:53:01,633 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 13:53:01,633 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 13:59:44,952 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:59:44,952 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 13:59:51,156 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:59:51,156 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 13:59:56,180 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 13:59:56,180 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 14:01:12,478 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 5 건
+2021-12-10 14:01:12,478 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 5 건
+2021-12-10 14:01:15,700 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 2 페이지
+2021-12-10 14:01:15,700 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 2 페이지
+2021-12-10 14:01:15,710 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:15,710 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:17,733 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:17,733 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:20,905 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 3 페이지
+2021-12-10 14:01:20,905 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 3 페이지
+2021-12-10 14:01:20,912 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:20,912 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:22,947 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:22,947 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:26,003 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 4 페이지
+2021-12-10 14:01:26,003 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 4 페이지
+2021-12-10 14:01:26,010 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:26,010 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:28,046 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:28,046 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:31,138 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 5 페이지
+2021-12-10 14:01:31,138 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 5 페이지
+2021-12-10 14:01:31,144 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:31,144 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:33,169 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:33,169 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:36,574 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 6 페이지
+2021-12-10 14:01:36,574 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 6 페이지
+2021-12-10 14:01:36,582 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:36,582 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:38,613 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:38,613 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:41,953 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 7 페이지
+2021-12-10 14:01:41,953 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 7 페이지
+2021-12-10 14:01:41,961 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 14 건
+2021-12-10 14:01:41,961 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 14 건
+2021-12-10 14:01:44,000 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:44,000 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:47,057 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 8 페이지
+2021-12-10 14:01:47,057 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 8 페이지
+2021-12-10 14:01:47,064 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:47,064 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:49,098 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:49,098 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:52,199 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 9 페이지
+2021-12-10 14:01:52,199 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 9 페이지
+2021-12-10 14:01:52,207 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:52,207 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:54,233 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:54,233 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:57,252 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 10 페이지
+2021-12-10 14:01:57,252 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 10 페이지
+2021-12-10 14:01:57,273 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:57,273 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:01:59,298 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:01:59,298 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:02,365 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 11 페이지
+2021-12-10 14:02:02,365 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 11 페이지
+2021-12-10 14:02:02,373 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 13 건
+2021-12-10 14:02:02,373 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 13 건
+2021-12-10 14:02:04,397 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:04,397 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:07,388 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 12 페이지
+2021-12-10 14:02:07,388 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 12 페이지
+2021-12-10 14:02:07,404 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 13 건
+2021-12-10 14:02:07,404 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 13 건
+2021-12-10 14:02:09,439 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:09,439 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:12,538 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 13 페이지
+2021-12-10 14:02:12,538 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 13 페이지
+2021-12-10 14:02:12,549 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:12,549 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:14,576 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:14,576 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:17,545 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 14 페이지
+2021-12-10 14:02:17,545 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 14 페이지
+2021-12-10 14:02:17,552 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:17,552 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:19,584 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:19,584 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:22,663 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 15 페이지
+2021-12-10 14:02:22,663 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 15 페이지
+2021-12-10 14:02:22,669 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:22,669 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:24,705 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:24,705 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:27,954 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 16 페이지
+2021-12-10 14:02:27,954 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 16 페이지
+2021-12-10 14:02:27,972 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:27,972 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:30,009 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:30,009 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:32,957 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 17 페이지
+2021-12-10 14:02:32,957 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 17 페이지
+2021-12-10 14:02:32,969 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:32,969 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:34,998 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:34,998 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:38,152 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 18 페이지
+2021-12-10 14:02:38,152 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 18 페이지
+2021-12-10 14:02:38,174 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:38,174 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:40,229 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:40,229 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:43,264 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 19 페이지
+2021-12-10 14:02:43,264 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 19 페이지
+2021-12-10 14:02:43,274 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:43,274 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:45,339 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:45,339 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:48,338 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 20 페이지
+2021-12-10 14:02:48,338 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 20 페이지
+2021-12-10 14:02:48,347 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:48,347 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:50,379 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:50,379 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:53,486 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 21 페이지
+2021-12-10 14:02:53,486 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 21 페이지
+2021-12-10 14:02:53,495 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:53,495 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:55,531 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:55,531 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:02:58,788 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 22 페이지
+2021-12-10 14:02:58,788 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 22 페이지
+2021-12-10 14:02:58,796 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:02:58,796 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:00,826 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:00,826 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:03,790 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 23 페이지
+2021-12-10 14:03:03,790 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 23 페이지
+2021-12-10 14:03:03,801 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:03,801 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:05,830 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:05,830 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:08,776 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 24 페이지
+2021-12-10 14:03:08,776 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 24 페이지
+2021-12-10 14:03:08,784 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:08,784 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:10,816 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:10,816 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:14,486 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 25 페이지
+2021-12-10 14:03:14,486 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 25 페이지
+2021-12-10 14:03:14,492 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:14,492 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:16,518 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:16,518 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:19,757 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 26 페이지
+2021-12-10 14:03:19,757 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 26 페이지
+2021-12-10 14:03:19,764 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:19,764 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:21,804 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:21,804 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:24,730 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 27 페이지
+2021-12-10 14:03:24,730 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 27 페이지
+2021-12-10 14:03:24,737 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:24,737 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:26,769 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:26,769 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:29,719 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 28 페이지
+2021-12-10 14:03:29,719 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 28 페이지
+2021-12-10 14:03:29,725 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:29,725 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:31,748 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:31,748 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:34,693 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 29 페이지
+2021-12-10 14:03:34,693 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 29 페이지
+2021-12-10 14:03:34,705 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:34,705 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:36,735 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:36,735 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:39,749 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 30 페이지
+2021-12-10 14:03:39,749 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 30 페이지
+2021-12-10 14:03:39,756 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:39,756 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:41,789 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:41,789 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:45,679 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 31 페이지
+2021-12-10 14:03:45,679 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 31 페이지
+2021-12-10 14:03:45,696 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:45,696 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:47,731 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:47,731 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:51,330 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 32 페이지
+2021-12-10 14:03:51,330 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 32 페이지
+2021-12-10 14:03:51,337 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:51,337 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:53,376 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:53,376 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:56,952 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 33 페이지
+2021-12-10 14:03:56,952 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 33 페이지
+2021-12-10 14:03:56,975 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:56,975 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:03:59,002 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:03:59,002 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:04:02,854 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 34 페이지
+2021-12-10 14:04:02,854 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 34 페이지
+2021-12-10 14:04:02,863 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:04:02,863 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:04:04,894 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:04:04,894 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:04:08,432 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 35 페이지
+2021-12-10 14:04:08,432 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 35 페이지
+2021-12-10 14:04:08,440 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:04:08,440 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:04:10,492 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:04:10,492 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:04:14,455 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 36 페이지
+2021-12-10 14:04:14,455 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 36 페이지
+2021-12-10 14:04:14,461 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:04:14,461 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:04:16,496 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:04:16,496 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:04:20,041 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 37 페이지
+2021-12-10 14:04:20,041 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 37 페이지
+2021-12-10 14:04:20,052 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:04:20,052 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:04:22,106 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:04:22,106 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:04:26,945 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 38 페이지
+2021-12-10 14:04:26,945 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 38 페이지
+2021-12-10 14:04:26,953 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:04:26,953 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 대상 : 15 건
+2021-12-10 14:04:28,982 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:04:28,982 | INFO | crawling | crawling_main() | crawling | C003/303/3301/news | 크롤링 성공 : 0 건
+2021-12-10 14:04:30,949 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None))': /session/51e3d4937f8a96c9312073e328afef04/window
+2021-12-10 14:04:30,949 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, '현재 연결은 원격 호스트에 의해 강제로 끊겼습니다', None, 10054, None))': /session/51e3d4937f8a96c9312073e328afef04/window
+2021-12-10 14:04:45,400 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 14:04:45,400 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 14:04:51,576 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 14:04:51,576 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 14:04:56,607 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 14:04:56,607 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 14:19:53,505 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 14:19:53,505 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 14:19:59,660 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 14:19:59,660 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 14:20:04,691 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 14:20:04,691 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 14:26:00,473 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 14:26:00,473 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 14:26:06,658 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 14:26:06,658 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 14:26:11,687 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 14:26:11,687 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 14:30:46,781 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 14:30:46,781 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 14:30:52,973 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 14:30:52,973 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 14:30:57,999 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 14:30:57,999 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 14:32:49,980 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/weektrends | Exception FileNotFoundError
+2021-12-10 14:32:49,980 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/weektrends | Exception FileNotFoundError
+2021-12-10 14:32:53,392 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/report | Exception FileNotFoundError
+2021-12-10 14:32:53,392 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/report | Exception FileNotFoundError
+2021-12-10 14:33:06,575 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 14:33:06,575 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 14:33:12,799 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 14:33:12,799 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 14:33:17,848 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 14:33:17,848 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 14:33:40,407 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 시작
+2021-12-10 14:33:40,407 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 시작
+2021-12-10 14:33:44,597 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 1 페이지
+2021-12-10 14:33:44,597 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 1 페이지
+2021-12-10 14:33:44,607 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 14:33:44,607 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 14:37:20,217 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 14:37:20,217 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 14:37:24,324 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 14:37:24,324 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 14:37:24,335 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 14:37:24,335 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 14:39:50,001 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/alltrends | Exception FileNotFoundError
+2021-12-10 14:39:50,001 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/alltrends | Exception FileNotFoundError
+2021-12-10 14:40:21,216 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 14:40:21,216 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 14:40:25,421 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 14:40:25,421 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 14:40:25,443 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 14:40:25,443 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 15:16:45,076 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:16:45,076 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:16:51,277 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:16:51,277 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:16:56,294 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:16:56,294 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:22:04,943 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:22:04,943 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:22:11,132 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:22:11,132 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:22:16,164 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:22:16,164 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:26:35,262 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:26:35,262 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:26:41,433 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:26:41,433 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:26:46,461 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:26:46,461 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:30:56,163 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:30:56,163 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:31:02,381 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:31:02,381 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:31:07,427 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:31:07,427 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:33:36,701 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:33:36,701 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:33:42,879 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:33:42,879 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:33:47,916 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:33:47,916 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:36:17,741 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:36:17,741 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:36:23,918 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:36:23,918 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:36:28,940 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:36:28,940 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:41:55,127 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:41:55,127 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:42:01,314 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:42:01,314 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:42:06,338 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:42:06,338 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:47:52,292 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:47:52,292 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 시작
+2021-12-10 15:47:58,450 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:47:58,450 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 1 페이지
+2021-12-10 15:48:03,467 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:48:03,467 | INFO | crawling | crawling_main() | crawling | C002/202/2209/news | 크롤링 대상 : 20 건
+2021-12-10 15:52:41,038 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 15:52:41,038 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 15:52:47,215 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 15:52:47,215 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 15:52:52,241 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 15:52:52,241 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 15:56:01,948 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 15:56:01,948 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 15:56:08,125 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 15:56:08,125 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 15:56:13,148 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 15:56:13,148 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 16:00:30,905 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:00:30,905 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:00:37,104 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 16:00:37,104 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 16:00:42,125 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 16:00:42,125 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 16:07:33,820 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:07:33,820 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:07:39,999 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 16:07:39,999 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 16:07:45,030 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 16:07:45,030 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 16:11:43,451 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:11:43,451 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:11:49,623 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 16:11:49,623 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 16:11:54,649 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 16:11:54,649 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 16:15:34,070 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:15:34,070 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:16:28,629 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:16:28,629 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:16:34,812 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 16:16:34,812 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 1 페이지
+2021-12-10 16:16:39,834 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 16:16:39,834 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 대상 : 20 건
+2021-12-10 16:18:45,525 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:18:45,525 | INFO | crawling | crawling_main() | crawling | C002/202/2209/release | 크롤링 시작
+2021-12-10 16:21:34,164 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 16:21:34,164 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 16:21:38,352 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 16:21:38,352 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 16:21:38,369 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:21:38,369 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:22:11,650 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 16:22:11,650 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 16:22:15,825 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 16:22:15,825 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 16:22:15,851 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:22:15,851 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:22:22,928 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/alltrends | Exception [WinError 183] 파일이 이미 있으므로 만들 수 없습니다: 'C:\\mou\\tmp\\send_tmp\\1d\\C002\\201\\2106\\alltrends\\2021\\12\\10\\130408'
+2021-12-10 16:22:22,928 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/alltrends | Exception [WinError 183] 파일이 이미 있으므로 만들 수 없습니다: 'C:\\mou\\tmp\\send_tmp\\1d\\C002\\201\\2106\\alltrends\\2021\\12\\10\\130408'
+2021-12-10 16:22:35,859 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 시작
+2021-12-10 16:22:35,859 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 시작
+2021-12-10 16:22:40,052 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 1 페이지
+2021-12-10 16:22:40,052 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 1 페이지
+2021-12-10 16:22:40,084 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:22:40,084 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:05,045 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 1 건
+2021-12-10 16:23:05,045 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 1 건
+2021-12-10 16:23:09,972 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 2 페이지
+2021-12-10 16:23:09,972 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 2 페이지
+2021-12-10 16:23:09,988 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:09,988 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:10,013 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:23:10,013 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:23:14,737 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 3 페이지
+2021-12-10 16:23:14,737 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 3 페이지
+2021-12-10 16:23:14,755 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:14,755 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:14,777 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:23:14,777 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:23:19,487 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 4 페이지
+2021-12-10 16:23:19,487 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 4 페이지
+2021-12-10 16:23:19,505 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:19,505 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:19,529 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:23:19,529 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:23:24,204 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 5 페이지
+2021-12-10 16:23:24,204 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 5 페이지
+2021-12-10 16:23:24,217 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:24,217 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:24,237 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:23:24,237 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:23:28,913 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 6 페이지
+2021-12-10 16:23:28,913 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 6 페이지
+2021-12-10 16:23:28,928 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:28,928 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:28,954 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:23:28,954 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:23:33,642 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 7 페이지
+2021-12-10 16:23:33,642 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 7 페이지
+2021-12-10 16:23:33,655 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:33,655 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:23:33,693 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:23:33,693 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:37:45,342 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 16:37:45,342 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 시작
+2021-12-10 16:37:49,546 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 16:37:49,546 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 1 페이지
+2021-12-10 16:37:49,563 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:37:49,563 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:42:08,633 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 7 건
+2021-12-10 16:42:08,633 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 7 건
+2021-12-10 16:42:13,877 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 2 페이지
+2021-12-10 16:42:13,877 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 2 페이지
+2021-12-10 16:42:13,912 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:42:13,912 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:45:18,232 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 5 건
+2021-12-10 16:45:18,232 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 5 건
+2021-12-10 16:45:23,303 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 3 페이지
+2021-12-10 16:45:23,303 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 3 페이지
+2021-12-10 16:45:23,322 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:45:23,322 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:45:23,343 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 16:45:23,343 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 16:45:28,385 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 4 페이지
+2021-12-10 16:45:28,385 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 4 페이지
+2021-12-10 16:45:28,403 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:45:28,403 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:45:28,424 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 16:45:28,424 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 16:45:33,458 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 5 페이지
+2021-12-10 16:45:33,458 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 5 페이지
+2021-12-10 16:45:33,475 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:45:33,475 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:45:33,499 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 16:45:33,499 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 16:45:38,547 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 6 페이지
+2021-12-10 16:45:38,547 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 6 페이지
+2021-12-10 16:45:38,557 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:45:38,557 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 대상 : 10 건
+2021-12-10 16:45:38,586 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 16:45:38,586 | INFO | crawling | crawling_main() | crawling | C002/201/2106/alltrends | 크롤링 성공 : 0 건
+2021-12-10 16:46:04,041 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 시작
+2021-12-10 16:46:04,041 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 시작
+2021-12-10 16:46:08,214 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 1 페이지
+2021-12-10 16:46:08,214 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 1 페이지
+2021-12-10 16:46:08,233 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:46:08,233 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:47:21,887 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 1 건
+2021-12-10 16:47:21,887 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 1 건
+2021-12-10 16:47:26,754 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 2 페이지
+2021-12-10 16:47:26,754 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 2 페이지
+2021-12-10 16:47:26,769 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:47:26,769 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:47:26,797 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:47:26,797 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:47:31,548 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 3 페이지
+2021-12-10 16:47:31,548 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 3 페이지
+2021-12-10 16:47:31,573 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:47:31,573 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 대상 : 10 건
+2021-12-10 16:47:31,599 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:47:31,599 | INFO | crawling | crawling_main() | crawling | C002/201/2106/weektrends | 크롤링 성공 : 0 건
+2021-12-10 16:48:03,800 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 16:48:03,800 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 16:48:07,903 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 16:48:07,903 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 16:48:07,926 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 16:48:07,926 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 16:52:04,471 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 성공 : 3 건
+2021-12-10 16:52:04,471 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 성공 : 3 건
+2021-12-10 16:52:09,032 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 2 페이지
+2021-12-10 16:52:09,032 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 2 페이지
+2021-12-10 16:52:09,048 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 16:52:09,048 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 16:52:09,069 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 성공 : 0 건
+2021-12-10 16:52:09,069 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 성공 : 0 건
+2021-12-10 16:52:13,643 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 3 페이지
+2021-12-10 16:52:13,643 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 3 페이지
+2021-12-10 16:52:13,655 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 16:52:13,655 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 16:52:13,690 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 성공 : 0 건
+2021-12-10 16:52:13,690 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 성공 : 0 건
+2021-12-10 16:53:20,593 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 16:53:20,593 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 16:53:24,694 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 16:53:24,694 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 16:53:24,724 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 16:53:24,724 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 16:54:05,717 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 16:54:05,717 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 16:54:09,809 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 16:54:09,809 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 16:54:09,825 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 16:54:09,825 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 16:54:58,396 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/report | Exception [WinError 183] 파일이 이미 있으므로 만들 수 없습니다: 'C:\\mou\\tmp\\send_tmp\\1d\\C002\\201\\2106\\report\\2021\\12\\10\\186'
+2021-12-10 16:54:58,396 | ERROR | crawling | crawling_main() | crawling | C002/201/2106/report | Exception [WinError 183] 파일이 이미 있으므로 만들 수 없습니다: 'C:\\mou\\tmp\\send_tmp\\1d\\C002\\201\\2106\\report\\2021\\12\\10\\186'
+2021-12-10 16:57:24,548 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 16:57:24,548 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 16:57:28,661 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 16:57:28,661 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 16:57:28,678 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 16:57:28,678 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 17:00:16,784 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 17:00:16,784 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 17:00:20,887 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 17:00:20,887 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 17:00:20,909 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 17:00:20,909 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 17:01:35,728 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 17:01:35,728 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 시작
+2021-12-10 17:01:39,820 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 17:01:39,820 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 1 페이지
+2021-12-10 17:01:39,843 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건
+2021-12-10 17:01:39,843 | INFO | crawling | crawling_main() | crawling | C002/201/2106/report | 크롤링 대상 : 20 건

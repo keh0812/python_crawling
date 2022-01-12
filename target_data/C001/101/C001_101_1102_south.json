@@ -1,0 +1,25 @@
+{
+    "common_data": {
+        "l_cd": "C001",
+        "l_cd_name": "북한",
+        "m_cd": "101",
+        "m_cd_name": "선전매체",
+        "s_cd": "1102",
+        "s_cd_name": "려명",
+        "menu_cd": "south",
+        "menu_name": "남녘소식",
+        "url": "http://www.ryomyong.com/index.php?page=south",
+        "detail_tag": ".contents a",
+        "identifier": "no",
+        "event_date": ".contents-line .item4"
+    },
+    "meta_data": {
+        "title_tag": "p:nth-child(2) > span > span",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "",
+        "contents_tag": "p~ p+ p span",
+        "img_tag": ""
+    },
+    "event_data": {}
+}

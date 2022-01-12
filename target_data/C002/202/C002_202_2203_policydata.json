@@ -1,0 +1,31 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2203",
+        "s_cd_name": "국토교통부",
+        "menu_cd": "policydata",
+        "menu_name": "통합검색(북한) - 정책자료 - 정책자료",
+        "url": "http://www.molit.go.kr/search/search2020.jsp?startCount=0&isDetailSearch=&andQuery=%EB%B6%81%ED%95%9C&sortField=Date&sortOrder=0&sort=import&start=1&collection=n_policy&site_id_ext=&query=%EB%B6%81%ED%95%9C&menu_max_ext=00510&reSearch=",
+        "detail_tag": "dl > dt > a",
+        "identifier": "id",
+        "event_date": ""
+    },
+    "meta_data": {
+        "title_tag": "h4",
+        "author_tag": "li:nth-child(2) span",
+        "download_tag": ".file a",
+        "write_date_tag": "li:nth-child(4) span",
+        "contents_tag": ".bd_view_cont",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": "#header"
+    },
+    "paging_data": {
+        "paging_tag": ".nav",
+        "next_tag": ".paging a:nth-child(13)"
+    }
+}

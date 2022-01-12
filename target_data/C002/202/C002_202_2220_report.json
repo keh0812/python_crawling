@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2220",
+        "s_cd_name": "한국무역협회",
+        "menu_cd": "report",
+        "menu_name": "무역통상정보 - 연구보고서 - 북한무역보고서",
+        "url": "https://www.kita.net/cmmrcInfo/rsrchReprt/northTradeReprt/northTradeReprtList.do",
+        "detail_tag": "div.boardList ul li a",
+        "identifier": "no",
+        "event_date": ".info .date"
+
+    },
+    "meta_data": {
+        "title_tag": ".sbj",
+        "author_tag": "",
+        "download_tag": ".fileList a",
+        "write_date_tag": ".date",
+        "contents_tag": "",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": "#header"
+    },
+    "paging_data": {
+        "paging_tag": ".pcVer span a",
+        "next_tag": "div.pagination > div.pcVer > a.btnNext"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "201",
+        "m_cd_name": "통일부",
+        "s_cd": "2101",
+        "s_cd_name": "남북회담본부 홈페이지",
+        "menu_cd": "dialogue",
+        "menu_name": "남북회담본부 - 남북대화",
+        "url": "https://dialogue.unikorea.go.kr/ukd/if/usrtalkSN/List.do",
+        "detail_tag": "#contents-wrap li",
+        "identifier": "",
+        "event_date": ".release-kor p:nth-child(3)"
+    },
+    "meta_data": {
+        "title_tag": ".release-kor strong",
+        "author_tag": "",
+        "download_tag": ".release-talks-download",
+        "write_date_tag": "",
+        "contents_tag": "#contents-wrap p+ p",
+        "img_tag": ".board-wrap > ul > li > div > img"
+    },
+    "event_data": {
+        "identifier": "integer",
+        "none": {
+            "identifier": "href",
+            "identifier_tag": "download_tag"
+        }
+    },
+    "paging_data": {
+        "paging_tag": ".pagination li",
+        "next_tag": ".next a"
+    }
+}

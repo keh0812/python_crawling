@@ -1,0 +1,28 @@
+{
+    "common_data": {
+        "l_cd": "C001",
+        "l_cd_name": "북한",
+        "m_cd": "101",
+        "m_cd_name": "선전매체",
+        "s_cd": "1107",
+        "s_cd_name": "조선관광",
+        "menu_cd": "tour",
+        "menu_name": "관광소식",
+        "url": "http://www.tourismdprk.gov.kp/blog/13",
+        "detail_tag": "div > div.post-content > a.btn",
+        "identifier": "",
+        "event_date": "div > div.post-content .post-author"
+    },
+    "meta_data": {
+        "title_tag": ".main-content .title",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": ".testimonial-author",
+        "contents_tag": ".description p",
+        "img_tag": "#slideWrap img"
+    },
+    "event_data": {
+        "identifier": "slash_after1",
+        "headless": "div.container"
+    }
+}

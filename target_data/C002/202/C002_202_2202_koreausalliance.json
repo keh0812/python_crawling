@@ -1,0 +1,31 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2202",
+        "s_cd_name": "국방부",
+        "menu_cd": "koreausalliance",
+        "menu_name": "국방소식 - 국방뉴스 - 한미연합",
+        "url": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboList.do?siteId=mnd&categoryCode=dema0007&id=mnd_020106000000&startDate=&endDate=&findType=title&findWord=%EB%B6%81%ED%95%9C",
+        "detail_tag": ".title a",
+        "identifier": "boardSeq",
+        "event_date": "#content dd"
+    },
+    "meta_data": {
+        "title_tag": "#printContents .title",
+        "author_tag": ".first dd",
+        "download_tag": "",
+        "write_date_tag": ".floatL+ .floatL dd",
+        "contents_tag": ".post_content",
+        "img_tag": ".txc-image"
+    },
+    "event_data": {
+        "headless": "#nav_header_fix"
+    },
+    "paging_data": {
+        "paging_tag": ".pager a",
+        "next_tag": ".btnNext a"
+    }
+}

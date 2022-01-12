@@ -1,0 +1,38 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2304",
+        "s_cd_name": "국방대학교 안보문제연구소",
+        "menu_cd": "research",
+        "menu_name": "자료실(출판물) - 국방연구",
+        "url": "https://www.kndu.ac.kr/rinsa/bbs/data/list.do?menu_idx=187",
+        "detail_tag": ".cell_type a",
+        "identifier": "",
+        "event_date": ".latin:nth-child(5)"
+    },
+    "meta_data": {
+        "title_tag": "h3",
+        "author_tag": "tr:nth-child(1) td:nth-child(2)",
+        "download_tag": ".btn_down",
+        "write_date_tag": "td:nth-child(4)",
+        "contents_tag": ".memo",
+        "img_tag": ""
+    },
+    "event_data": {
+        "search": {
+            "search_input": "#SC_KEYWORD",
+            "search_keyword": "북한",
+            "search_btn": "#SC_SEARCH"
+        },
+        "headless": ".container",
+        "identifier": "javascript",
+        "javascript": "href"
+    },
+    "paging_data": {
+        "paging_tag": "#paging_area li a",
+        "next_tag": ".next"
+    }
+}

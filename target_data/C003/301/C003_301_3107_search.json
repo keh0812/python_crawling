@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "301",
+        "m_cd_name": "해외 정부기관",
+        "s_cd": "3107",
+        "s_cd_name": "미국 국방정보국",
+        "menu_cd": "search",
+        "menu_name": "통합검색(north korea) - News",
+        "url": "https://search.usa.gov/search/news?affiliate=defensegov&channel=10132&query=north+korea&sort_by=r",
+        "detail_tag": ".title a",
+        "identifier": "",
+        "event_date": ""
+    },
+    "meta_data": {
+        "title_tag": ".maintitle",
+        "author_tag": "div > header > span.date > span > a",
+        "download_tag": "",
+        "write_date_tag": ".date",
+        "contents_tag": ".inside p",
+        "img_tag": ".image-wrapper img"
+    },
+    "event_data": {
+        "identifier": "slash_after3"
+    },
+    "paging_data": {
+        "paging_tag": "",
+        "next_tag": ".next_page",
+        "paging_bar": ""
+    }
+}

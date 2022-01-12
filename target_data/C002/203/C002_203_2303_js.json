@@ -1,0 +1,36 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2303",
+        "s_cd_name": "국가안보전략연구원",
+        "menu_cd": "js",
+        "menu_name": "출판 - 전략보고",
+        "url": "http://www.inss.re.kr/publication/bbs/js_list.do",
+        "detail_tag": ".txtBox a",
+        "identifier": "nttId",
+        "event_date": ".txtBox li:nth-child(1)"
+    },
+    "meta_data": {
+        "title_tag": "#subCont p",
+        "author_tag": "dd:nth-child(4) .link",
+        "download_tag": "a.btnDown",
+        "write_date_tag": "dd:nth-child(2)",
+        "contents_tag": "#view_content span",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": "#header",
+        "search": {
+            "search_input": "#listMap div input",
+            "search_keyword": "북한",
+            "search_btn": ".btnSearch"
+        }
+    },
+    "paging_data": {
+        "paging_tag": ".page li a",
+        "next_tag": "ul+ a img"
+    }
+}

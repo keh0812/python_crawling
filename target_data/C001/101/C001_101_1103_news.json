@@ -1,0 +1,25 @@
+{
+    "common_data": {
+        "l_cd": "C001",
+        "l_cd_name": "북한",
+        "m_cd": "101",
+        "m_cd_name": "선전매체",
+        "s_cd": "1103",
+        "s_cd_name": "류경",
+        "menu_cd": "news",
+        "menu_name": "기사",
+        "url": "http://www.ryugyongclip.com/index.php?lang=prk&type=gisa&categ=9",
+        "detail_tag": ".cont_lrbcb_title a",
+        "identifier": "no",
+        "event_date": ".cont_lrbc_bar+ .cont_lrbc_bar .cont_lrbcb_date"
+    },
+    "meta_data": {
+        "title_tag": "span strong",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": ".lefttext",
+        "contents_tag": "p~ p+ p",
+        "img_tag": ""
+    },
+    "event_data": {}
+}

@@ -1,0 +1,39 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2218",
+        "s_cd_name": "주중한국대사관",
+        "menu_cd": "econotrends",
+        "menu_name": "한중경제 - 주요 내수시장 정보 및 경제 동향",
+        "url": "https://overseas.mofa.go.kr/cn-ko/brd/m_23084/list.do",
+        "detail_tag": ".type3 a",
+        "identifier": "seq",
+        "event_date": "td:nth-child(5)"
+    },
+    "meta_data": {
+        "title_tag": ".bo_head h2",
+        "author_tag": "#contents dd:nth-child(2)",
+        "download_tag": ".bo_file span",
+        "write_date_tag": "dd:nth-child(6)",
+        "contents_tag": ".bo_con",
+        "img_tag": ""
+    },
+    "event_data": {
+        "menu": [
+            "//*[@id='srchTp']",
+            "//*[@id='srchTp']/option[2]"
+        ],
+        "search": {
+            "search_input": "#srchWord",
+            "search_keyword": "북한",
+            "search_btn": ".inp_sch button"
+        }
+    },
+    "paging_data": {
+        "paging_tag": "#contents li a",
+        "next_tag": ".next_page"
+    }
+}

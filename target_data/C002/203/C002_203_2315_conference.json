@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2315",
+        "s_cd_name": "외교안보연구소",
+        "menu_cd": "conference",
+        "menu_name": "프로그램 - IFANS 국제문제회의 - 주요자료 - 검색(북한)",
+        "url": "http://www.ifans.go.kr/knda/ifans/kor/program/PblctList.do;jsessionid=3rJHgn8qqnT10v3YiRPbUely.public12?searchPid=program01",
+        "detail_tag": ".board_list > li > a",
+        "identifier": "sn",
+        "event_date": ".date em"
+    },
+    "meta_data": {
+        "title_tag": ".tit",
+        "author_tag": "",
+        "download_tag": ".board_con.con_in > dl > dd > a",
+        "write_date_tag": ".date > em",
+        "contents_tag": ".board_con.con_in",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": "#header"
+    },
+    "paging_data": {
+        "paging_tag": ".off",
+        "next_tag": ".next",
+        "active_page_tag": ".on"
+    }
+}

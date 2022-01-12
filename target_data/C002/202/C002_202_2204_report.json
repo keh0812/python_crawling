@@ -1,0 +1,29 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2204",
+        "s_cd_name": "기상청",
+        "menu_cd": "report",
+        "menu_name": "알림·소식 - 보도자료 - 본청",
+        "url": "https://www.kma.go.kr/kma/news/press.jsp?field=subject&text=%EB%B6%81%ED%95%9C",
+        "detail_tag": ".val_m a",
+        "identifier": "num",
+        "event_date": "td:nth-child(5)"
+    },
+    "meta_data": {
+        "title_tag": "h3",
+        "author_tag": ".tit_info em:nth-child(1)",
+        "download_tag": ".td a",
+        "write_date_tag": "em+ em",
+        "contents_tag": ".bbs_view_body",
+        "img_tag": ""
+    },
+    "event_data": {},
+    "paging_data": {
+        "paging_tag": ".bbs_paging a",
+        "next_tag": ".next"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "301",
+        "m_cd_name": "해외 정부기관",
+        "s_cd": "3106",
+        "s_cd_name": "주한 미국대사관",
+        "menu_cd": "news",
+        "menu_name": "Home - News & Events",
+        "url": "https://kr.usembassy.gov/news-events/?search_query=North+Korea&date_m=",
+        "detail_tag": "header > h2 > a",
+        "identifier": "",
+        "event_date": ".bottom-topics"
+    },
+    "meta_data": {
+        "title_tag": "div > header > h1",
+        "author_tag": "p:nth-child(9)",
+        "download_tag": "",
+        "write_date_tag": "",
+        "contents_tag": "p+ p",
+        "img_tag": ".page-feature"
+    },
+    "event_data": {
+        "headless": "#ubermenu-main-Main-Navigation",
+        "identifier": "slash_after2"
+    },
+    "paging_data": {
+        "paging_tag": "",
+        "next_tag": ".next",
+        "paging_bar": ""
+    }
+}

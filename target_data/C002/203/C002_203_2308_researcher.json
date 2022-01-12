@@ -1,0 +1,29 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2308",
+        "s_cd_name": "통일연구원",
+        "menu_cd": "researcher",
+        "menu_name": "연구원소식 - 보도자료",
+        "url": "https://www.kinu.or.kr/brd/board/630/L/menu/399",
+        "detail_tag": ".txtL a",
+        "identifier": "bbIdx",
+        "event_date": "td:nth-child(4)"
+    },
+    "meta_data": {
+        "title_tag": ".subject",
+        "author_tag": "",
+        "download_tag": ".board_wrap_bbs > table > tbody > tr:nth-child(1) > td > a",
+        "write_date_tag": ".board_wrap_bbs > table > thead > tr:nth-child(2) > td.first",
+        "contents_tag": ".context",
+        "img_tag": ""
+    },
+    "event_data": {},
+    "paging_data": {
+        "paging_tag": "#pageNation_wrap a, #pageNation_wrap > div > span",
+        "next_tag": "a:nth-child(13)"
+    }
+}

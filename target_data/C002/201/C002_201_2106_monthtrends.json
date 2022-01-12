@@ -1,0 +1,42 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "201",
+        "m_cd_name": "통일부",
+        "s_cd": "2106",
+        "s_cd_name": "북한정보포털",
+        "menu_cd": "monthtrends",
+        "menu_name": "북한동향 - 월간 북한동향",
+        "biz_l_cd": "A001",
+        "biz_m_cd": "103",
+        "biz_s_cd": "1306",
+        "url": "https://nkinfo.unikorea.go.kr",
+        "detail_tag": ".board-list > table > tbody > tr > td.board-align > a",
+        "identifier": "",
+        "event_date": ".board-align+ td"
+    },
+    "meta_data": {
+        "title_tag": "",
+        "author_tag": "",
+        "download_tag": ".board-view-footer > dl > dd > a",
+        "write_date_tag": "",
+        "contents_tag": "",
+        "img_tag": ""
+    },
+    "event_data": {
+        "advert": {
+            "advert_close": ".layer-close"
+        },
+        "menu": [
+            "//*[@id='gnb']/ul/li[2]/a",
+            "//*[@id='gnb']/ul/li[2]/div/div/div[2]/dl[3]/dd/ul/li[3]/a"
+        ],
+        "identifier": "javascript",
+        "javascript": "data-id"
+    },
+    "paging_data": {
+        "paging_tag": ".paging > ul > li > a",
+        "next_tag": ".paging .next"
+    }
+}

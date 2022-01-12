@@ -1,0 +1,35 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2207",
+        "s_cd_name": "대한적십자사",
+        "menu_cd": "news",
+        "menu_name": "대한적십자사 소개 - 소식 - 적십자 뉴스 - 보도자료",
+        "url": "https://www.redcross.or.kr/redcross_whatsnew/redcross_whatsnew_news_press.do?action=list",
+        "detail_tag": ".subject > a",
+        "identifier": "brdctsno",
+        "event_date": ".area_list > table > tbody > tr > td:nth-child(4)"
+    },
+    "meta_data": {
+        "title_tag": "tbody > tr:nth-child(1) > td > span",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": ".enterdate",
+        "contents_tag": "#contents",
+        "img_tag": ""
+    },
+    "event_data": {
+        "search": {
+            "search_input": "#search_keyword",
+            "search_keyword": "북한",
+            "search_btn": "#area_section .btn_search"
+        }
+    },
+    "paging_data": {
+        "paging_tag": ".number",
+        "next_tag": ".area_page li:nth-child(13) a"
+    }
+}

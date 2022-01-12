@@ -1,0 +1,37 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2305",
+        "s_cd_name": "국토연구원",
+        "menu_cd": "pressrelease",
+        "menu_name": "이슈&뉴스 - 보도 자료",
+        "url": "https://www.krihs.re.kr/issue/pressList.do",
+        "detail_tag": ".pl_10 a",
+        "identifier": "seq",
+        "event_date": ".pl_10+ td"
+    },
+    "meta_data": {
+        "title_tag": ".prg_view.mt_25 > table > tbody > tr:nth-child(1) > td",
+        "author_tag": ".mt_25 tr:nth-child(2) td:nth-child(2)",
+        "download_tag": "tr~ tr+ tr .link_gray",
+        "write_date_tag": "td~ td",
+        "contents_tag": ".board_con span , span b",
+        "img_tag": ""
+    },
+    "event_data": {
+    "search": {
+        "search_input": "#frm > fieldset > div > input",
+        "search_keyword": "북한",
+        "search_btn": "#frm > fieldset > div > button"
+    },
+    "headless": "#header"
+    },
+    "paging_data": {
+        "paging_tag": "#content a span",
+        "next_tag": "a.btn.btn_white.size_40.ml_10",
+        "active_page_tag": ".paging strong"
+    }
+}

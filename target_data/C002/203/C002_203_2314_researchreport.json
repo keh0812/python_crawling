@@ -1,0 +1,41 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2314",
+        "s_cd_name": "한국문화관광연구원",
+        "menu_cd": "researchreport",
+        "menu_name": "KCTI 발간물 - 연구보고서",
+        "url": "https://www.kcti.re.kr/web/board/boardContentsListPage.do?board_id=2",
+        "detail_tag": "#contentsList li",
+        "identifier": "",
+        "event_date": "dd:nth-child(4)"
+    },
+    "meta_data": {
+        "title_tag": "h4",
+        "author_tag": ".name dd:nth-child(2)",
+        "download_tag": ".download",
+        "write_date_tag": "dd:nth-child(4)",
+        "contents_tag": "#contentsarea .content",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": "#header",
+        "search": {
+            "search_input": "#searchtxt",
+            "search_keyword": "북한",
+            "search_btn": ".btn_search"
+        },
+        "identifier": "contentsView",
+        "none": {
+            "identifier": "href",
+            "identifier_tag": "a.thumbnaillist_txt"
+        }
+    },
+    "paging_data": {
+        "paging_tag": ".web_only a",
+        "next_tag": ".btn-paging-next"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "304",
+        "m_cd_name": "연구기관",
+        "s_cd": "3403",
+        "s_cd_name": "Congressional Research Service",
+        "menu_cd": "resources",
+        "menu_name": "통합검색(North Korea) - Resources",
+        "url": "https://crsreports.congress.gov/search/#/0?termsToSearch=north%20korea&orderBy=Relevance&navIds=4294960806",
+        "detail_tag": "#searchResultsContainer > div.reports-results > div",
+        "identifier": "",
+        "event_date": ".result-date"
+    },
+    "meta_data": {
+        "title_tag": "#searchResultsContainer > div > div > div.span10 > div.result-title > div.span11 > a:nth-child(3) > span",
+        "author_tag": "div.span10 > div.result-authors > div > span:nth-child(2)",
+        "download_tag": ".span11 div .ng-binding+ a",
+        "write_date_tag": ".result-date",
+        "contents_tag": "",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": "#crs-header-container",
+        "identifier": "slash_after3",
+        "none": {
+            "identifier": "href",
+            "identifier_tag": "download_tag"
+        }
+    },
+    "paging_data": {
+        "paging_tag": "div:nth-child(19) > div > crs-page-numbers > div > div > span",
+        "next_tag": ""
+    }
+}

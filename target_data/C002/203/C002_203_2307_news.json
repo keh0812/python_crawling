@@ -1,0 +1,29 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "203",
+        "m_cd_name": "연구기관",
+        "s_cd": "2307",
+        "s_cd_name": "동아시아연구원(EAI)",
+        "menu_cd": "news",
+        "menu_name": "연구원소식 - 언론보도",
+        "url": "https://www.eai.or.kr/new/ko/news/notice.asp?board=kor_eaiinmedia&keyword=%EB%B6%81%ED%95%9C&keyword_option=board_title&page=1&RD=48BSD2E338&",
+        "detail_tag": ".subject a",
+        "identifier": "intSeq",
+        "event_date": "#sub .desc li:nth-child(1)"
+    },
+    "meta_data": {
+        "title_tag": ".subject",
+        "author_tag": ".desc li+ li",
+        "download_tag": "",
+        "write_date_tag": ".desc li:nth-child(1)",
+        "contents_tag": ".con",
+        "img_tag": "#sub img"
+    },
+    "event_data": {},
+    "paging_data": {
+        "paging_tag": ".__paging .num",
+        "next_tag": "a.arr.next"
+    }
+}

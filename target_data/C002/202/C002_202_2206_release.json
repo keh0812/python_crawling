@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2206",
+        "s_cd_name": "농촌진흥청",
+        "menu_cd": "release",
+        "menu_name": "홍보 - 보도자료",
+        "url": "https://www.rda.go.kr/board/board.do?prgId=day_farmprmninfoEntry&menu_id=pun&menu_nm=%ED%99%8D%EB%B3%B4&boardId=farmprmninfo&searchgubun=rdaSearch&mode=list&searchSDate=&searchEDate=&searchOrgDeptKey=&searchOrgDeptVal=&searchKey=subject&searchVal=%EB%B6%81%ED%95%9C",
+        "detail_tag": ".news_txt .tt a",
+        "identifier": "dataNo",
+        "event_date": ".date"
+    },
+    "meta_data": {
+        "title_tag": ".subject",
+        "author_tag": "",
+        "download_tag": ".g_view a:nth-child(2)",
+        "write_date_tag": ".date",
+        "contents_tag": ".con p",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": "#header",
+        "url_filtering": "jsessionid"
+    },
+    "paging_data": {
+        "paging_tag": ".num a",
+        "next_tag": "div.pagination > ul > li:nth-child(4) > a"
+    }
+}

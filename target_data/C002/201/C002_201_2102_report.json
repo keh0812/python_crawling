@@ -1,0 +1,32 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "201",
+        "m_cd_name": "통일부",
+        "s_cd": "2102",
+        "s_cd_name": "통일교육원 홈페이지",
+        "menu_cd": "report",
+        "menu_name": "국립통일교육원 - 새소식 - 보도자료",
+        "url": "https://www.uniedu.go.kr/uniedu/home/brd/bbsatcl/mrprt/list.do?mid=SM00000506&odr=news&sc=T&sv=%EB%B6%81%ED%95%9C",
+        "detail_tag": ".subject a",
+        "identifier": "id",
+        "event_date": "td+ .col-tablet"
+    },
+    "meta_data": {
+        "title_tag": "h4",
+        "author_tag": "p:nth-child(1) span",
+        "download_tag": "div.infobox > div.download_file > p > a",
+        "write_date_tag": "p:nth-child(2) span",
+        "contents_tag": ".basic_editor",
+        "img_tag": ""
+    },
+    "event_data": {
+        "headless": "header"
+    },
+    "paging_data" : {
+        "paging_tag" : "",
+        "active_page_tag": ".page_select .pcurrent",
+        "next_tag" : ".btn_next a"
+    }
+}

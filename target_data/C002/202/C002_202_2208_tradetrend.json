@@ -1,0 +1,29 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2208",
+        "s_cd_name": "무역투자진흥공사(KOTRA)",
+        "menu_cd": "tradetrend",
+        "menu_name": "국가 지역정보 - 북한대외무역동향",
+        "url": "https://news.kotra.or.kr/user/globalBbs/kotranews/787/globalBbsDataList.do?setIdx=249",
+        "detail_tag": ".al a",
+        "identifier": "dataIdx",
+        "event_date": ".al+ .ac"
+    },
+    "meta_data": {
+        "title_tag": "#sub-page-content .tit",
+        "author_tag": "tr:nth-child(3) td",
+        "download_tag": "tr:nth-child(4) > td > a",
+        "write_date_tag": "tr:nth-child(2) > td",
+        "contents_tag": "#sub-page-content p:nth-child(1)",
+        "img_tag": ""
+    },
+    "event_data": {},
+    "paging_data": {
+        "paging_tag": "div.pagination-wrap > div > ul > li> a",
+        "next_tag": ".page-next"
+    }
+}

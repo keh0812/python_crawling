@@ -1,0 +1,33 @@
+{
+    "common_data": {
+        "l_cd": "C003",
+        "l_cd_name": "해외",
+        "m_cd": "301",
+        "m_cd_name": "해외 정부기관",
+        "s_cd": "3104",
+        "s_cd_name": "미국 재무부",
+        "menu_cd": "news",
+        "menu_name": "Hone - News - Press Releases",
+        "url": "https://home.treasury.gov/news/press-releases?title=north+korea&publication-start-date=&publication-end-date=",
+        "detail_tag": ".featured-stories__headline a",
+        "identifier": "",
+        "event_date": ".date-format time"
+    },
+    "meta_data": {
+        "title_tag": "#block-hamilton-page-title span",
+        "author_tag": "",
+        "download_tag": "",
+        "write_date_tag": "div.field__item time",
+        "contents_tag": ".field--type-text-long",
+        "img_tag": ""
+    },
+    "event_data": {
+        "identifier": "slash_after1",
+        "headless": "#header"
+    },
+    "paging_data": {
+        "paging_tag": "",
+        "next_tag": ".pager__item--next",
+        "paging_bar": ".js-pager__items"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "common_data": {
+        "l_cd": "C002",
+        "l_cd_name": "국내",
+        "m_cd": "202",
+        "m_cd_name": "정부/공공기관",
+        "s_cd": "2212",
+        "s_cd_name": "외교부",
+        "menu_cd": "domestic",
+        "menu_name": "뉴스·공지 - 연설·기고·인터뷰 - 기고·인터뷰 - 국내언론",
+        "url": "https://www.mofa.go.kr/www/brd/m_4095/list.do",
+        "detail_tag": ".type3 a",
+        "identifier": "seq",
+        "event_date": "td:nth-child(5)"
+    },
+    "meta_data": {
+        "title_tag": ".bo_head h2",
+        "author_tag": "dd:nth-child(4)",
+        "download_tag": "",
+        "write_date_tag": "dd:nth-child(6)",
+        "contents_tag": ".bo_con",
+        "img_tag": ""
+    },
+    "event_data": {
+        "search": {
+            "search_input": "#srchWord",
+            "search_keyword": "북한",
+            "search_btn": ".inp_sch button"
+        }
+    },
+    "paging_data": {
+        "paging_tag": ".pagination a",
+        "next_tag": ".next_page"
+    }
+}
